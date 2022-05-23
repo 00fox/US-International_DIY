@@ -26,5 +26,14 @@ Which fingers are the most significant for each letter, balance of importance, i
 
 
 
-Now the ease of access, to be associated with the order of importance of the letters, which is: EARIOTNSLCUDMPHGBFYWKVXZJQ
+Now the ease of access, to associate with which side for each pair (letter rather analytical or letter rather synthetic or balance) and to the order of importance of the letters, which is: EARIOTNSLCUDMPHGBFYWKVXZJQ
+
+
+
+- Nowadays perhaps MP and HG would be interchangeable given that there is less space to cover and therefore less intellectualization of a vertical line change compared to a somewhat difficult finger advancement.
+- This is the first draft of the qwerty/qwertz/azerty we know, some say one is scientific, the other universal, that's wrong, both are scientific and universal, the difference just depends on how the machine, and the need to adapt to avoid fatigue.
+- The problems: (yes, we made this mistake again later) rather than punctuation and accentuation keys being on the same keys as the letters, we wanted them independent and easy to access, at least for the comma; the point only being placed at the end of the line. So the comma instead of the L and the point to its right. Also you could transfer the little used X to the other side.
+
+
+
 
