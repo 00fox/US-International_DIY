@@ -16,5 +16,15 @@ If I add in 4 colors the most used letters, it gives this:
 
 
 
+We see that to avoid distances, the letters were grouped on the same side, then, the least important of the most important, on the left, next to the capitals keys.
 Of course in other languages, the letters FGB for example are more used, but overall the classification remains the same.
 Now let's put them in order of importance, on a newer machine keyboard that requires less keystrokes and space, ergonomically; yes, we come from there; therefore eight fingers placed in a rounded shape on the middle line of the layout.
+
+
+
+Which fingers are the most significant for each letter, balance of importance, ideas: the words east and black.
+
+
+
+Now the ease of access, to be associated with the order of importance of the letters, which is: EARIOTNSLCUDMPHGBFYWKVXZJQ
+
