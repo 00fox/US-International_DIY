@@ -10,7 +10,6 @@ These are the basics of mechanical writing. And this is what we are going to try
 
 Historically, this would have gone something like this:
 
---------------------DHIATENSOR.jpg
 ![DHIATENSOR](Pictures/Intro_DHIATENSOR.jpg)
 
 If I add in 4 colors the most used letters, it gives this:
