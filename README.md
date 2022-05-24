@@ -3,7 +3,7 @@ Not revolutionary, but a much easier way to arrange an international layout on U
 
 I will complete the project step by step
 
-# The story:
+## The story:
 
 When inventing the Morse code, Samuel wondered what were the most used letters in order to match the alphabet to the code, the simplest for the most used. Then for the hesitations between two, the most visual, association of form or idea, simple memotechnical means.
 These are the basics of mechanical writing. And this is what we are going to try to find, where we got lost, keeping this essential in mind and trying to avoid the pitfalls of other solutions that seem to be advantageous. And find there a certain joy of living without contradiction with efficiency.
@@ -11,7 +11,7 @@ These are the basics of mechanical writing. And this is what we are going to try
 Historically, this would have gone something like this:
 
 --------------------DHIATENSOR.jpg
-![DHIATENSOR](Pictures/Intro_DHIATENSOR.png)
+![DHIATENSOR](Pictures/Intro_DHIATENSOR.jpg)
 
 If I add in 4 colors the most used letters, it gives this:
 
@@ -67,7 +67,7 @@ Not being here for this controversy, it is not mine and does not belong to me, m
 I'm not saying that to do it, but that it won't be my subject, I'll do something else.
 Which will therefore be: How to keep the current layout, apart from simple changes concerning the letters. How to remodify small errors such as the comma instead of M. How to make innovative and simple, but not revolutionary nor fun to reinvent the wheel, changes to accented characters. What a simple and effective placement concerning the other characters, and with what tools.
 
-# Issues:
+## Issues:
 
 - And the current international US keyboard?
 
@@ -92,9 +92,9 @@ That's why I'm not going to do it, I'll wait for fully reprogrammable keyboards 
 
 They do the job. The layout shouldn't be the essence of what they represent; they are part of a nice style like any other, but with the ability to be fully regrammable in the future, with less impact (ability to be wireless if needed, great autonomy etc.). They will not be the only ones, so they represent a fashion, viable in the long term, but not a solution to a problem, what is ergonomics, efficiency and simplicity, regardless of the choice of type of keyboard, with each one's preferences, and not the keyboard type is the solution.
 
-# Disclaimer:
+## Disclaimer:
 I don't have a budget, so the example will be basic, but it's the idea that counts, afterwards, everyone adapts if they want.
 But I will provide software solutions
 
-# 1. The choice of the keyboard
+## 1. The choice of the keyboard
 to be continued...
