@@ -11,33 +11,34 @@ These are the basics of mechanical writing. And this is what we are going to try
 Historically, this would have gone something like this:
 
 --------------------DHIATENSOR.jpg
+![DHIATENSOR](Pictures/Intro_DHIATENSOR.png)
 
 If I add in 4 colors the most used letters, it gives this:
 
--------------------DHIATENSOR_color.png
+![DHIATENSOR_color](Pictures/Intro_DHIATENSOR_color.png)
 
 We see that to avoid distances, the letters were grouped on the same side, then, the least important of the most important, on the left, next to the capitals keys.
 Of course in other languages, the letters FGB for example are more used, but overall the classification remains the same.
 Now let's put them in order of importance, on a newer machine keyboard that requires less keystrokes and space, ergonomically; yes, we come from there; therefore eight fingers placed in a rounded shape on the middle line of the layout.
 
------------------Top8.png
+![Top8](Pictures/Intro_Top8.png)
 
 Which fingers are the most significant for each letter, balance of importance, ideas: the words east and noir.
 
------------------Top8order.png
+![Top8order](Pictures/Intro_Top8order.png)
 
 Now the ease of access, to associate with which side for each pair (letter rather analytical or letter rather synthetic or balance) and to the order of importance of the letters, which is: EARIOTNSLCUDMPHGBFYWKVXZJQ
 
------------------Top8accessibility.png
+![Top8accessibility](Pictures/Intro_Top8accessibility.png)
 
 - Nowadays perhaps MP and HG would be interchangeable given that there is less space to cover and therefore less intellectualization of a vertical line change compared to a somewhat difficult finger advancement.
 - This is the first draft of the qwerty/qwertz/azerty we know, some say one is scientific, the other universal, that's wrong, both are scientific and universal, the difference just depends on how the machine, and the need to adapt to avoid fatigue.
 
------------------FirstTry.png
+![FirstTry](Pictures/Intro_FirstTry.png)
 
 - The problems: (yes, we made this mistake again later) rather than punctuation and accentuation keys being on the same keys as the letters, we wanted them independent and easy to access, at least for the comma; the point only being placed at the end of the line. So the comma instead of the L and the point to its right. Also we could transfer the little used X to the other side before the even less used Q.
 
------------------------Comma.png
+![Comma](Pictures/Intro_Comma.png)
 
 Now all that remained was to make a weight balance and lighten the sentences, because there, it gave the impression that each letter had a break before the next.
 !!!! WE CAN CONSIDER this research for later when we are sure that our keyboards are fully programmable and can be used on any device without having to put a layout template file (which requires admin rights ) or whatever else to get it to work properly, because the whole layout is a heavy thing to swap out.
@@ -81,7 +82,7 @@ They use for example ALTGR to change ' (which therefore remains pleasantly usabl
 Precisely, for what is the template of a country, I am looking for more fun and simpler, and modifiable by everyone according to their wishes, without contradicting the effectiveness of the base.
 As for the others, they reinvent the wheel in a fake fun, which does not advance much otherwise el do, because rather than presenting each his own, it was enough to go back to the last stage of the current keyboard and make something of it. 'other. Basically, they want you make do this:
 
-------------------------------IdealFUN.png
+![IdealFUN](Pictures/Intro_IdealFUN.png)
 
 That is to say, that the base having been used for the development of the QWERTY, it is placed on the QWERTY in an inappropriate way since this was done for machines having a lot of space between each key and requiring a lot of force to typing, which is not the case with our keyboards, which therefore deserve a layout that stems from it and not a layout that reinvents it where it is not suitable. On the other hand, a keyboard resembling a typewriter, there are some magnificent ones today.
 
