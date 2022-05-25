@@ -96,4 +96,48 @@ I don't have a budget, so the example will be basic, but it's the idea that coun
 But I will provide software solutions
 
 ## 1. The choice of the keyboard
-to be continued...
+Remember, I'm not substituting my choices for yours, I'll explain mine and how I adapt them, then you can make your own and possibly use my ideas to put them into practice.
+
+AINSI or ISO?
+
+ANSI, American National Standards Institute on Microsoft Designer Compact Keyboard:
+
+![Comma](Pictures/Choice_Microsoft_Designer_AINSI.png)
+
+ISO, International Organization for Standardization on the same keyboard:
+
+![Comma](Pictures/Choice_Microsoft_Designer_ISO.png)
+
+- For my project I need the VK_OEM_5 key above the Enter key. I will explain why later. You may also want to, or not, and in some situations prefer other things, I also explain which ones and how.
+- But you can also directly take advantage of the additional key VK_OEM_102 of the ISO. Personally, I'll use it if it's there, but I can also place it elsewhere, which in fact I prefer. I'll explain how and what to do with it.
+
+Mix on Acgam AG6X and TedGem:
+
+![Comma](Pictures/Choice_Acgam_AG6X.png)
+
+![Comma](Pictures/Choice_TedGem.png)
+
+- So I'm going to prefer the ANSI standard or a MIX, we'll see if you too, or if other choices are possible, or go back to other more classic but less simple projects.
+- Mechanical, Membrane or Scissors? It's up to you. Since mechanical costs a lot, I'll go on classical membrane to test, cause I love heavy touches. And I wait for fully reprogrammable ones to made changes possibles to easily use it on different computers hoping for less consumption. Membrane can last for two years with a single battery, I hop'e for one month with light backlight when I need it.
+
+Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
+
+![Comma](Pictures/Choice_Logitech_K230.png)
+
+![Comma](Pictures/X9_Performance_102-key_Wireless.png)
+
+- Full-sized, 96%, 1800 Compact, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speack of 1800 Compact and 75%, But you can adapt.
+- In case of 1800 Compact, space between numpad and the rest or not? It depends. Space respect more syntetic and analitic differences, but it's less compact. So if you do it more compact, you have to find another way to separate theme resecting your brain. Thinking again with scientific and universal and simple. It seems that offsetting the arrow keys and painting them another color is the easiest way. And be careful, again, some have forgotten why we did it, and therefore do it without painting the keys, which makes it difficult to use, much more than separated, or else, they do it by design, like the jumper headless, including minus numpad, on keyboards smaller than 75% or Tenkeyless.
+
+Therefore, a 75%; but guys if you prefer story of electronic or bad jokes, you can take a misaligned one; and a Compact, which respects the separation, or a separate Compact.
+
+## 1. My template and why
+
+Ok, since template is broken, and fully programmable keyboards don't offer all I need for now, I'll start with AZERTY layout, for those personnal reasons (I've used a lot QWERTY too):
+- All vowels are on the same line
+- It's sounds good, the sound is good.
+- I don't like bad surprises, so this replaces CTRL+Q Quit with CTRL-Z Undo, and CTRL+S Save with CTRL-Y Undo, and makes them more accessible.
+- I can change WXCVBN to XCVWBN and get used to it, so when I'm on a Misaligned keyboard, I don't have to do the splits, except to have fun doing it.
+- I could invert J and L later, without alterate my choice
+
+To be continued...
