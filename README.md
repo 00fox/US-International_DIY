@@ -108,7 +108,7 @@ ISO, International Organization for Standardization on the same keyboard:
 
 ![Comma](Pictures/Choice_Microsoft_Designer_ISO.png)
 
-- For my project I need the VK_OEM_5 key above the Enter key. I will explain why later. You may also want to, or not, and in some situations prefer other things, I also explain which ones and how.
+- For my project I need the VK_OEM_5 key above the Enter key, same size as Tab. I will explain why later. You may also want to, or not, and in some situations prefer other things, I also explain which ones and how.
 - But you can also directly take advantage of the additional key VK_OEM_102 of the ISO. Personally, I'll use it if it's there, but I can also place it elsewhere, which in fact I prefer. I'll explain how and what to do with it.
 
 Mix on Acgam AG6X and TedGem:
@@ -139,5 +139,7 @@ Ok, since template is broken, and fully programmable keyboards don't offer all I
 - I don't like bad surprises, so this replaces CTRL+Q Quit with CTRL-Z Undo, and CTRL+S Save with CTRL-Y Undo, and makes them more accessible.
 - I can change WXCVBN to XCVWBN and get used to it, so when I'm on a Misaligned keyboard, I don't have to do the splits, except to have fun doing it.
 - I could invert J and L later, without alterate my choice
+
+![Comma](Pictures/Template_Control.png)
 
 To be continued...
