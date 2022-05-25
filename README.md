@@ -85,7 +85,7 @@ As for the others, they reinvent the wheel in a fake fun, which does not advance
 
 That is to say, that the base having been used for the development of the QWERTY, it is placed on the QWERTY in an inappropriate way since this was done for machines having a lot of space between each key and requiring a lot of force to typing, which is not the case with our keyboards, which therefore deserve a layout that stems from it and not a layout that reinvents it where it is not suitable. On the other hand, a keyboard resembling a typewriter, there are some magnificent ones today.
 
-That's why I'm not going to do it, I'll wait for fully reprogrammable keyboards without wandering in autonomy, then I'll do my own. But if some people do it for themselves, and they like it, or some people do it in a global way without trying to reinvent the wheel, so much the better for them. Only it remains hard to pass from a computer which is el soien to one which is not.
+That's why I'm not going to do it, I'll wait for fully reprogrammable keyboards without wandering in autonomy, then I'll do my own. But if some people do it for themselves, and they like it, or some people do it in a global way without trying to reinvent the wheel, so much the better for them. Only it remains hard to pass from a computer which is his to one which is not.
 
 - What about mechanical keyboards?
 
