@@ -131,6 +131,14 @@ Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
 Therefore, a 75%; but guys if you prefer story of electronic or bad jokes, you can take a misaligned one; and a Compact, which respects the separation, or a separate Compact.
 
+![Comma](Pictures/Choice_75.png)
+
+![Comma](Pictures/Choice_75_Misaligned.png)
+
+![Comma](Pictures/Choice_Compact.png)
+
+![Comma](Pictures/Choice_Compact_Sparated.png)
+
 ## 1. My template and why
 
 Ok, since template is broken, and fully programmable keyboards don't offer all I need for now, I'll start with AZERTY layout, for those personnal reasons (I've used a lot QWERTY too):
