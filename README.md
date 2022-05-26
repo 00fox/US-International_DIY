@@ -6,6 +6,7 @@ I will complete the project step by step
 ## The story:
 
 When inventing the Morse code, Samuel wondered what were the most used letters in order to match the alphabet to the code, the simplest for the most used. Then for the hesitations between two, the most visual, association of form or idea, simple memotechnical means.
+
 These are the basics of mechanical writing. And this is what we are going to try to find, where we got lost, keeping this essential in mind and trying to avoid the pitfalls of other solutions that seem to be advantageous. And find there a certain joy of living without contradiction with efficiency.
 
 Historically, this would have gone something like this:
@@ -17,7 +18,9 @@ If I add in 4 colors the most used letters, it gives this:
 ![DHIATENSOR_color](Pictures/Intro_DHIATENSOR_color.png)
 
 We see that to avoid distances, the letters were grouped on the same side, then, the least important of the most important, on the left, next to the capitals keys.
+
 Of course in other languages, the letters FGB for example are more used, but overall the classification remains the same.
+
 Now let's put them in order of importance, on a newer machine keyboard that requires less keystrokes and space, ergonomically; yes, we come from there; therefore eight fingers placed in a rounded shape on the middle line of the layout.
 
 ![Top8](Pictures/Intro_Top8.png)
@@ -40,7 +43,9 @@ Now the ease of access, to associate with which side for each pair (letter rathe
 ![Comma](Pictures/Intro_Comma.png)
 
 Now all that remained was to make a weight balance and lighten the sentences, because there, it gave the impression that each letter had a break before the next.
+
 !!!! WE CAN CONSIDER this research for later when we are sure that our keyboards are fully programmable and can be used on any device without having to put a layout template file (which requires admin rights ) or whatever else to get it to work properly, because the whole layout is a heavy thing to swap out.
+
 In the meantime, I will rather dwell on other errors that have been made, and see if there are no other solutions than those usually proposed and which come out of the controversy.
 
 But first, crack the polemic, explain its impacts, then move on:
@@ -54,16 +59,18 @@ Invent wars, for the entities, as serious vs humor, rather than a war in a comic
 Which means that in the fun of the "morons" who would project according to some who speak of others, who exist for those, who are for them, free from what did not exist, to make war, peace, to laugh, to make others project, are in their sprinkler mirror sprinkled, to go with the theme of the first typewriters in Chaplin's time; rather again, it's the content of a comic book; well it turns out that to believe themselves free, the serious ones rage with their own fun on them to want to reinvent the wheel again and do better than what we had for which they would be responsible for its destruction.
 
 And so,
-The F and T are exchanged according to the pi law of contradictions
-The R is removed from the word 'NOIR', The T is spaced from the word 'EAST'
-Some countries have shifted the comma, by lowering a letter, that of the little finger of the right hand, and surely the serious will explain in a fable by LaFontaine why it is not good for the monkey who played a trick on it.
-And the swap between L and N which isn't a bad idea, regrouping HJKL; place J, letter little used instead of N or L which were much more so.
+- The F and T are exchanged according to the pi law of contradictions
+- The R is removed from the word 'NOIR', The T is spaced from the word 'EAST'
+- Some countries have shifted the comma, by lowering a letter, that of the little finger of the right hand, and surely the serious will explain in a fable by LaFontaine why it is not good for the monkey who played a trick on it.
+- And the swap between L and N which isn't a bad idea, regrouping HJKL; place J, letter little used instead of N or L which were much more so.
 etc.
 
 On the other hand, the monotony is well broken, and the phonetics of the lines, easy to remember.
 
 Not being here for this controversy, it is not mine and does not belong to me, moreover, to whom in fact?,
+
 I'm not saying that to do it, but that it won't be my subject, I'll do something else.
+
 Which will therefore be: How to keep the current layout, apart from simple changes concerning the letters. How to remodify small errors such as the comma instead of M. How to make innovative and simple, but not revolutionary nor fun to reinvent the wheel, changes to accented characters. What a simple and effective placement concerning the other characters, and with what tools.
 
 ## Issues:
@@ -79,6 +86,7 @@ They use for example ALTGR to change ' (which therefore remains pleasantly usabl
 - And other famous layouts, Dvorak, Evolved, Capewell, Colemak, QFMLWY, QGMLWY, Norman, Arensito, Neo etc?
 
 Precisely, for what is the template of a country, I am looking for more fun and simpler, and modifiable by everyone according to their wishes, without contradicting the effectiveness of the base.
+
 As for the others, they reinvent the wheel in a fake fun, which does not advance much otherwise el do, because rather than presenting each his own, it was enough to go back to the last stage of the current keyboard and make something of it. 'other. Basically, they want you make do this:
 
 ![IdealFUN](Pictures/Intro_IdealFUN.png)
@@ -93,6 +101,7 @@ They do the job. The layout shouldn't be the essence of what they represent; the
 
 ## Disclaimer:
 I don't have a budget, so the example will be basic, but it's the idea that counts, afterwards, everyone adapts if they want.
+
 But I will provide software solutions
 
 ## 1. The choice of the keyboard
@@ -150,12 +159,14 @@ Ok, since template is broken, and fully programmable keyboards are rares (except
 
 ## 2. Why ISO or MIX, and why VK_OEM_5 same size as TAB?
 
-I want to avoid the use of the ALTGR key and keep the RALT key
-I don't want the current international US layout, because it makes it difficult to use some very useful keys
-I don't want solutions where the accents are made from other keys drawn with ALTGR (I may still want to keep; for example if I specifically use one language and want to keep access to other ; the possibility of other accents but in a grouped and more explicit way, I will talk about it later)
+- I want to avoid the use of the ALTGR key and keep the RALT key
+- I don't want the current international US layout, because it makes it difficult to use some very useful keys
+- I don't want solutions where the accents are made from other keys drawn with ALTGR (I may still want to keep; for example if I specifically use one language and want to keep access to other ; the possibility of other accents but in a grouped and more explicit way, I will talk about it later)
 
 So I decided to use this key, VK_OEM_5, and make it an accent key for the language(s) that suits me, and everyone can make their own layout, with a simple, common template.
+
 The fact of also using the TAB key, is to facilitate access to the letters in a symmetrical way, it is not compulsory, we can keep this key in the current state.
+
 I told you that I don't like bad surprises like Numlock etc, well they find that I don't like Caps Lock either, so I move the TAB to Caps Lock, but everyone does what they want, not to not to do or arrange otherwise, just I throw the idea, it's up to you if it's the right one or you find a better one.
 
 ![Comma](Pictures/2_TAB_VK_OEM_5.png)
@@ -164,12 +175,14 @@ I take an Example; imagine that I want to be able to write in French, Spanish an
 - English: à - â - ä - é - è - ê - ë - î - ï - ô - ö - ù - û - ü - ÿ - ç
 - Spanish: á - í - ó - ú - ñ - ¡ - ¿
 - German: ä - ö - ü - ß
+
 And I place them in a simple and clever way on my template (do it with your own)
 
 
 ![Comma](Pictures/2_Accents.png)
 
 For my part, I put the acute accents on the letter, then the low ones just at the bottom right. Then we shift one letter and place the circumflex accent and the umlaut. For the U, we move back two squares instead, but it remains very logical and memorizable. When at I we cheat a little, like a Tetris, but that's okay, it's still fun. CBN?! additional ones are obvious.
+
 Note that I take advantage of the move of the M to reorganize the punctuation marks, it is not mandatory, but I might as well take advantage of it.
 
 Now better to add colors instead of engrave them on the keys. I leave the characters but imagine that they are no longer there.
