@@ -204,7 +204,39 @@ Or just the front
 - Paint or acrylic markers then varnish
 - Thermal transfer
 - Classic transfer and strong glue
-- Avoid stickers
-- Fluorescent paint possible if not using backlight
+Avoid stickers
+
+Fluorescent paint possible if not using backlight
+
+## 4. Full template
+
+Now it's time to complete what we do with the normal keys and with the yellow keys.
+- The ?/ key is now ?: and the :; is now !; much more paratic and memorable.
+- Also the character / becomes alone that we place with \ to the left of the yellow key, this also has another use which I will explain
+- With these keys we do the + and the minus, if you are not a programmer or you use them more often than /\ you can invert the top and bottom.
+- The -_ key therefore becomes the -= key, more practical because closer to the shift, the _ is made by pressing the yellow key twice, it is very feasible thanks to the dead keys.
+- the {[ }] keys are placed on the top line next to special characters, notably braces, and each is a very useful, with visual and associative logic of which finger to do it.
+- Yellow keys do the numbers and extremely memorizable associative characters. I don't complete others letters, as it would be break the template if someone do another positionnement for the accents.
+
+Of course it's as you wish, but personally for this project, I'm going to keep this common basis, it's the use or not of the yellow keys and the position of the accents to which I would leave more freedom.
+
+Note that the numpad has no other functions, which is why I put the Play/Pause key instead of the Numlock, this avoids unpleasant surprises.
+
+![Comma](Pictures/4_Compact.png)
+
+If it's 75%, the numbers have to be done with shift, or even reverse up and down if you're not a programmer and you use them really often.
+- But I don't replace what the yellow key can do, so as not to create too big differences between the two sizes, you can for example have a small one in the bag and a large one at home. I would keep the same idea in mind if I did a 60%.
+
+Apart from that, that's all, except that I keep the Play/Pause key and therefore combine the Win key and the Search key.
+
+![Comma](Pictures/4_75.png)
+
+Alternatively you can consider doing the accents differently, ignoring the acute and grave; by placing it differently, or putting others, more useful, in your language; and place the acute accent and grave accent symbols to the left of the yellow key.
+
+In this case the ? and \ are done by double pressing, which is still nice to do for these characters, as the _ is done by double pressing the Yellow key.
+
+You can thing inoring to use a yellow key or use it to do ^ accents only, for example. With or without using colors, dirrectly on the good letter.
+
+![Comma](Pictures/4_Accents.png)
 
 To be continued...
