@@ -124,7 +124,7 @@ Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
 ![Comma](Pictures/Choice_Logitech_K230.png)
 
-![Comma](Pictures/X9_Performance_102-key_Wireless.png)
+![Comma](Pictures/Choice_X9_Performance_102-key_Wireless.png)
 
 - Full-sized, 96%, 1800 Compact, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speak of 1800 Compact and 75%, But you can adapt.
 - In case of 1800 Compact, space between numpad and the rest or not? It depends. Space respect more syntetic and analitic differences, but it's less compact. So if you do it more compact, you have to find another way to separate theme resecting your brain. Thinking again with scientific and universal and simple. It seems that offsetting the arrow keys and painting them another color is the easiest way. And be careful, again, some have forgotten why we did it, and therefore do it without painting the keys, which makes it difficult to use, much more than separated, or else, they do it by design, like the jumper headless, including minus numpad, on keyboards smaller than 75% or Tenkeyless.
@@ -141,13 +141,24 @@ Therefore, a 75%; but guys if you prefer story of electronic or bad jokes, you c
 
 ## 1. My template and why
 
-Ok, since template is broken, and fully programmable keyboards don't offer all I need for now, I'll start with AZERTY layout, for those personnal reasons (I've used a lot QWERTY too):
+Ok, since template is broken, and fully programmable keyboards are rares (except for the 60%) or don't offer all I need for now, I'll start with AZERTY layout, for those personnal reasons (I've used a lot QWERTY too):
 - All vowels are on the same line
 - It's sounds good, the sound is good.
 - I don't like bad surprises, so this replaces CTRL+Q Quit with CTRL-Z Undo, and CTRL+S Save with CTRL-Y Undo, and makes them more accessible.
 - I can change WXCVBN to XCVWBN and get used to it, so when I'm on a Misaligned keyboard, I don't have to do the splits, except to have fun doing it.
 - I could invert J and L later, without alterate my choice
 
-![Comma](Pictures/Template_Control.png)
+![Comma](Pictures/1_Control.png)
 
-To be continued...
+## 2. Why ISO or MIX, and why VK_OEM_5 same size as TAB?
+
+I want to avoid the use of the ALTGR key and keep the RALT key
+I don't want the current international US layout, because it makes it difficult to use some very useful keys
+I don't want solutions where the accents are made from other keys drawn with ALTGR (I may still want to keep; for example if I specifically use one language and want to keep access to other ; the possibility of other accents but in a grouped and more explicit way, I will talk about it later)
+
+So I decided to use this key, VK_OEM_5, and make it an accent key for the language(s) that suits me, and everyone can make their own layout, with a simple, common template.
+The fact of also using the TAB key, is to facilitate access to the letters in a symmetrical way, it is not compulsory, we can keep this key in the current state.
+I told you that I don't like bad surprises like Numlock etc, well they find that I don't like Caps Lock either, so I move the TAB to Caps Lock, but everyone does what they want, not to not to do or arrange otherwise, just I throw the idea, it's up to you if it's the right one or you find a better one.
+
+![Comma](Pictures/2_TAB_VK_OEM_5.png)
+
