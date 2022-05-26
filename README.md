@@ -126,7 +126,7 @@ Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
 ![Comma](Pictures/X9_Performance_102-key_Wireless.png)
 
-- Full-sized, 96%, 1800 Compact, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speack of 1800 Compact and 75%, But you can adapt.
+- Full-sized, 96%, 1800 Compact, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speak of 1800 Compact and 75%, But you can adapt.
 - In case of 1800 Compact, space between numpad and the rest or not? It depends. Space respect more syntetic and analitic differences, but it's less compact. So if you do it more compact, you have to find another way to separate theme resecting your brain. Thinking again with scientific and universal and simple. It seems that offsetting the arrow keys and painting them another color is the easiest way. And be careful, again, some have forgotten why we did it, and therefore do it without painting the keys, which makes it difficult to use, much more than separated, or else, they do it by design, like the jumper headless, including minus numpad, on keyboards smaller than 75% or Tenkeyless.
 
 Therefore, a 75%; but guys if you prefer story of electronic or bad jokes, you can take a misaligned one; and a Compact, which respects the separation, or a separate Compact.
