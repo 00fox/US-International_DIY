@@ -211,7 +211,7 @@ Fluorescent paint possible if not using backlight
 ## 4. Full template
 
 Now it's time to complete what we do with the normal keys and with the yellow keys.
-- The ?/ key is now ?: and the :; is now !; much more paratic and memorable.
+- The ?/ key is now ?: and the :; is now !; much more practical and easy to remember.
 - Also the character / becomes alone that we place with \ to the left of the yellow key, this also has another use which I will explain
 - With these keys we do the + and the minus, if you are not a programmer or you use them more often than /\ you can invert the top and bottom.
 - The -_ key therefore becomes the -= key, more practical because closer to the shift, the _ is made by pressing the yellow key twice, it is very feasible thanks to the dead keys.
@@ -231,7 +231,7 @@ Apart from that, that's all, except that I keep the Play/Pause key and therefore
 
 ![Comma](Pictures/4_75.png)
 
-Alternatively you can consider doing the accents differently, ignoring the acute and grave; by placing it differently, or putting others, more useful, in your language; and place the acute accent and grave accent symbols to the left of the yellow key.
+Alternatively you can consider doing the accents differently, ignoring the acute and grave; by placing it differently, or putting others, more useful, in your language; and place the acute and grave symbols to the left of the yellow key.
 
 In this case the ? and \ are done by double pressing, which is still nice to do for these characters, as the _ is done by double pressing the Yellow key.
 
