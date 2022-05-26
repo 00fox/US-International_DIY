@@ -58,7 +58,7 @@ The F and T are exchanged according to the pi law of contradictions
 The R is removed from the word 'NOIR', The T is spaced from the word 'EAST'
 Some countries have shifted the comma, by lowering a letter, that of the little finger of the right hand, and surely the serious will explain in a fable by LaFontaine why it is not good for the monkey who played a trick on it.
 And the swap between L and N which isn't a bad idea, regrouping HJKL; place J, letter little used instead of N or L which were much more so.
-etc
+etc.
 
 On the other hand, the monotony is well broken, and the phonetics of the lines, easy to remember.
 
@@ -126,14 +126,12 @@ Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
 ![Comma](Pictures/Choice_X9_Performance_102-key_Wireless.png)
 
-- Full-sized, 96%, 1800 Compact, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speak of 1800 Compact and 75%, But you can adapt.
+- Full-sized, 1800 Compact, 96%, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speak of Compact and 75%, But you can adapt.
 - In case of 1800 Compact, space between numpad and the rest or not? It depends. Space respect more syntetic and analitic differences, but it's less compact. So if you do it more compact, you have to find another way to separate theme resecting your brain. Thinking again with scientific and universal and simple. It seems that offsetting the arrow keys and painting them another color is the easiest way. And be careful, again, some have forgotten why we did it, and therefore do it without painting the keys, which makes it difficult to use, much more than separated, or else, they do it by design, like the jumper headless, including minus numpad, on keyboards smaller than 75% or Tenkeyless.
 
-Therefore, a 75%; but guys if you prefer story of electronic or bad jokes, you can take a misaligned one; and a Compact, which respects the separation, or a separate Compact.
+Therefore, a 75%, a Compact, which respects the separation, or a separate Compact.
 
 ![Comma](Pictures/Choice_75.png)
-
-![Comma](Pictures/Choice_75_Misaligned.png)
 
 ![Comma](Pictures/Choice_Compact.png)
 
@@ -142,11 +140,11 @@ Therefore, a 75%; but guys if you prefer story of electronic or bad jokes, you c
 ## 1. My template and why
 
 Ok, since template is broken, and fully programmable keyboards are rares (except for the 60%) or don't offer all I need for now, I'll start with AZERTY layout, for those personnal reasons (I've used a lot QWERTY too):
-- All vowels are on the same line
+- All vowels are on the same line.
 - It's sounds good, the sound is good.
 - I don't like bad surprises, so this replaces CTRL+Q Quit with CTRL-Z Undo, and CTRL+S Save with CTRL-Y Undo, and makes them more accessible.
 - I can change WXCVBN to XCVWBN and get used to it, so when I'm on a Misaligned keyboard, I don't have to do the splits, except to have fun doing it.
-- I could invert J and L later, without alterate my choice
+- I could invert J and L later, without alterate my choice.
 
 ![Comma](Pictures/1_Control.png)
 
@@ -162,3 +160,38 @@ I told you that I don't like bad surprises like Numlock etc, well they find that
 
 ![Comma](Pictures/2_TAB_VK_OEM_5.png)
 
+I take an Example; imagine that I want to be able to write in French, Spanish and German very easily, without losing the functionality of essential keys. First I consider the accents and additional characters I need:
+- English: à - â - ä - é - è - ê - ë - î - ï - ô - ö - ù - û - ü - ÿ - ç
+- Spanish: á - í - ó - ú - ñ - ¡ - ¿
+- German: ä - ö - ü - ß
+And I place them in a simple and clever way on my template (do it with your own)
+
+
+![Comma](Pictures/2_Accents.png)
+
+For my part, I put the acute accents on the letter, then the low ones just at the bottom right. Then we shift one letter and place the circumflex accent and the umlaut. For the U, we move back two squares instead, but it remains very logical and memorizable. When at I we cheat a little, like a Tetris, but that's okay, it's still fun. CBN?! additional ones are obvious.
+Note that I take advantage of the move of the M to reorganize the punctuation marks, it is not mandatory, but I might as well take advantage of it.
+
+Now better to add colors instead of engrave them on the keys. I leave the characters but imagine that they are no longer there.
+
+![Comma](Pictures/2_Colors.png)
+
+Possibly just on the edges, so as not to mix with the special keys and not to overload the keyboard.
+
+![Comma](Pictures/2_Colors_less.png)
+
+Or just front
+
+![Comma](Pictures/2_Colors_front.png)
+
+## 3. How to color and add characters on keys?
+
+- Order keys from a mechanical keyboard retailer
+- Ink and laser pointer
+- Paint or acrylic markers then varnish
+- Thermal transfer
+- Classic transfer and strong glue
+- Avoid stickers
+- Fluorescent paint possible if not using backlight
+
+To be continued...
