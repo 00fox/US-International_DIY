@@ -180,7 +180,7 @@ Possibly just on the edges, so as not to mix with the special keys and not to ov
 
 ![Comma](Pictures/2_Colors_less.png)
 
-Or just front
+Or just the front
 
 ![Comma](Pictures/2_Colors_front.png)
 
