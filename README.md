@@ -278,10 +278,10 @@ We treat them like Dead keys too.
 |   ✓    |    ✓    | Yow   | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ¯               | U + 0304 |
 |   ✓    |    ✕    | -=    | breve        | agu AGU                   | ăğŭ ĂĞŬ˘                   | U + 0306 |
 |   ✓    |    ✕    | ,<    | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ¸         | U + 0327 |
-|   ✓    |    ✕    | .>    | ring         | acegiluz ACEGILUZ         | åċėġıŀůż ÅĊĖĠİĿŮŻ˚         | U + 030A |
+|   ✓    |    ✕    | .>    | dot          | acegiluz ACEGILUZ         | åċėġıŀůż ÅĊĖĠİĿŮŻ˙         | U + 0307 |
 |   ✓    |    ✕    | :?    | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ˛                 | U + 0328 |
 |   ✓    |    ✕    | ;!    | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
 |   ✓    |    ✕    | {[    | double acute | dout OUT                  | ðőű þŐŰÞ˝	              | U + 030B |
-|   ✓    |    ✕    | }]    | dot          | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˙             | U + 0307 |
+|   ✓    |    ✕    | }]    | ring         | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˚             | U + 030A |
 
 To be continued...
