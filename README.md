@@ -285,4 +285,72 @@ We treat them like Dead keys too.
 |   ✓    |    ✕    | {[    | double acute | dout OUT                  | ðőű þŐŰÞ˝	              | U + 030B |
 |   ✓    |    ✕    | }]    | ring         | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˚             | U + 030A |
 
+## 7. And technically, how do I do?
+
+Ok, I take a practical case
+
+we start with this:
+
+![Comma](Pictures/7_old.png)
+
+The first thing to do is to physically move the keys, not immediately change the layout.
+
+Why? Quite simply because, for example, games see the keys in raw mode (or DirectInput etc.) and not the layout; also, if the keys no longer correspond at all to what the old ones represented, you risk being lost or very confused.
+
+How to do? Either with the supplied software, if the keyboard allows it, or by flashing the rom with software like VIA or QMK on mechanical keyboards, or with software like Sharpkeys for example, which allows you to modify the registry so as to exchange or reassign els keys and not change layout.
+
+I will give an example for sharpkeys. Thinking about this, which model is closest to what we wanted, which will allow us to memorize the keys, despite the new layout.
+
+![Comma](Pictures/7_new.png)
+
+- The keys [{ and ]} are almost the same as {[ }] we wanted
+- The keys '" and /+(´¨) are really close
+- The keys `~ and \*(`~) are really close
+- The keys \| and |¬ are almost identical
+- The keys -_ and -= are almost identical
+- The change between /? and :? keys is easy to remember
+- The change between ;: and ;! keys is easy to remember
+So it will be easy to identify the key in a game or whatever
+
+Well, to program this, we need to know by making a list, what we changed and for what, or just reassigned:
+
+![Comma](Pictures/7_Moves.png)
+
+No need to follow the route, just which one and by what.
+
+Then, for example, the first one:
+- Open SharpKeys
+- Click Add
+- Select or type Key: `~ (00_29) under 'Map this key'
+- Select or type Key: \| (00_2B) under 'To this key'
+- Click 'OK'
+- Check that it has been added to the list and that it is the correct assignment
+- Click 'Write to Registry' and valid 'OK'
+- LogOut/ReLog
+The Key `~ should act now like \|, not the characters, it will be detected as a raw \| key, then we can change characters, it will stay detected as it is.
+
+If we do the complete list, it gives:
+
+![Comma](Pictures/7_SharpKeys.png)
+
+## 8. And for the layout?
+
+Use the keyboard layout creator or anything like it. You will find many examples and tutorials. But I will provide a layout and the already made executable, the one I'm talking about in this article.
+
+If you absolutely want to use characters on ALTGR, without having to sacrifice RALT for ALTGR and manually type LEFT CONTROL + RIGHT ALT (Which is a good way to keep keys safe since the combination is hard to make by chance ), normally it is impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT, and it is not possible to unlock it manually.
+
+![Comma](Pictures/8_ALTGR.png)
+
+But there is a trick.
+-Continue until the end, save your template regularly, then compile it as is.
+-Once done, in the installation directory go to the directory that corresponds to your machine, or else, do it for all.
+-Open the dll you find there with a hex editor.
+-Look for 01 as in the image below (the group that contains it, which can be seen in the image, is easily identifiable; even if the whole file may be different)
+-Change it to 00 then save.
+-And only now proceed with the installation using the msi from the root directory.
+
+![Comma](Pictures/8_Hex.png)
+
+Normally if everything went well, the RALT key is not modified, but you can use LCTRL + RALT to enter the characters corresponding to this layout.
+
 To be continued...
