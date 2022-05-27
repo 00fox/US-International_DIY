@@ -297,7 +297,7 @@ The first thing to do is to physically move the keys, not immediately change the
 
 Why? Quite simply because, for example, games see the keys in raw mode (or DirectInput etc.) and not the layout; also, if the keys no longer correspond at all to what the old ones represented, you risk being lost or very confused.
 
-How to do? Either with the supplied software, if the keyboard allows it, or by flashing the rom with software like VIA or QMK on mechanical keyboards, or with software like Sharpkeys for example, which allows you to modify the registry so as to exchange or reassign els keys and not change layout.
+How to do? Either with the supplied software, if the keyboard allows it, or by flashing the rom with software like VIA or QMK on mechanical keyboards, or with software like Sharpkeys for example, which allows you to modify the registry so as to exchange or reassign the keys and not change layout.
 
 I will give an example for sharpkeys. Thinking about this, which model is closest to what we wanted, which will allow us to memorize the keys, despite the new layout.
 
