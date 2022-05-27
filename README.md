@@ -249,6 +249,6 @@ I have another solution to quickly use a list of many characters; I'll tell you 
 
 ![Comma](Pictures/5_Special.png)
 
-Remember, except if you juge it necessary, we don't put the on Keycaps, nor Green (special) nor Yellow (accents). Or at the Front, possibly, accents at the front center, special characters at the front left.
+Remember, except if you juge it necessary, we don't put them on Keycaps, nor Green (special) nor Yellow (accents). Or at the Front, possibly, accents at the front center, special characters at the front left.
 
 To be continued...
