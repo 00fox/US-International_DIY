@@ -272,10 +272,10 @@ We treat them like Dead keys too.
 | CTRL + | SHIFT + | Key + | Name         | Keys                      | Gives :                    | Ligature |
 |:------:|:-------:|:-----:|:------------:|:-------------------------:|:--------------------------:|:--------:|
 |   ✓    |    ✕    | /+    | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ´ | U + 0301 |
-|   ✓    |    ✕    | \*    | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ`               | U + 0300 |
+|   ✓    |    ✕    | \\*    | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ`               | U + 0300 |
 |   ✓    |    ✕    | Yow   | circumflex   | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ^     | U + 0302 |
 |   ✓    |    ✓    | /+    | diaeresis    | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ¨             | U + 0308 |
-|   ✓    |    ✓    | \*    | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ~	              | U + 0303 |
+|   ✓    |    ✓    | \\*    | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ~	              | U + 0303 |
 |   ✓    |    ✓    | Yow   | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ¯               | U + 0304 |
 |   ✓    |    ✕    | -=    | breve        | agu AGU                   | ăğŭ ĂĞŬ˘                   | U + 0306 |
 |   ✓    |    ✕    | ,<    | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ¸         | U + 0327 |
@@ -291,7 +291,7 @@ Ok, I take a practical case
 
 we start with this:
 
-![Comma](Pictures/7_old.png)
+![Comma](Pictures/7_Old.png)
 
 The first thing to do is to physically move the keys, not immediately change the layout.
 
@@ -301,11 +301,11 @@ How to do? Either with the supplied software, if the keyboard allows it, or by f
 
 I will give an example for sharpkeys. Thinking about this, which model is closest to what we wanted, which will allow us to memorize the keys, despite the new layout.
 
-![Comma](Pictures/7_new.png)
+![Comma](Pictures/7_New.png)
 
 - The keys [{ and ]} are almost the same as {[ }] we wanted
 - The keys '" and /+(´¨) are really close
-- The keys `~ and \*(`~) are really close
+- The keys ``~ and \*(``~) are really close
 - The keys \| and |¬ are almost identical
 - The keys -_ and -= are almost identical
 - The change between /? and :? keys is easy to remember
