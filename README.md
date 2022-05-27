@@ -285,4 +285,3 @@ We treat them like Dead keys too.
 |   ✓    |    ✕    | }]    | line              | dhilotDHILOT             | đħĳłøŧĐĦĲŁØŦ˙             | U + 0307 |
 
 To be continued...
-̬
