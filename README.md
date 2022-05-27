@@ -268,20 +268,20 @@ We treat them like Dead keys too.
 - Or write just the desired accent, by doing CTRL(+Shift)+Accent+Space
 - Ligatures for fonts which support them are achieved by typing the same accent again
 
-| CTRL + | SHIFT + | Key + | Name              | Keys                      | Gives :                    | Ligature |
-|:------:|:-------:|:-----:|:-----------------:|:-------------------------:|:--------------------------:|:--------:|
-|   ✓    |    ✕    | /+    | acute             | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ´ | U + 0301 |
-|   ✓    |    ✕    | \*    | grave             | aeiou AEIOU               | àèìòù ÀÈÌÒÙ`               | U + 0300 |
-|   ✓    |    ✕    | Yow   | circumflex        | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ^     | U + 0302 |
-|   ✓    |    ✓    | /+    | diaeresis, umlaut | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ¨             | U + 0308 |
-|   ✓    |    ✓    | \*    | tilde             | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ~	              | U + 0303 |
-|   ✓    |    ✓    | Yow   | macron            | aeiou AEIOU               | āēīōū ĀĒĪŌŪ¯               | U + 0304 |
-|   ✓    |    ✕    | -=    | breve             | agu AGU                   | ăğŭ ĂĞŬ˘                   | U + 0306 |
-|   ✓    |    ✕    | ,<    | cedilla           | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ¸         | U + 0327 |
-|   ✓    |    ✕    | .>    | ring, dot         | acegiluz ACEGILUZ         | åċėġıŀůż ÅĊĖĠİĿŮŻ˚         | U + 030A |
-|   ✓    |    ✕    | :?    | ogonek            | aeiu AEIU                 | ąęįų ĄĘĮŲ˛                 | U + 0328 |
-|   ✓    |    ✕    | ;!    | caron             | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
-|   ✓    |    ✕    | {[    | double acute      | dout OUT                  | ðőű þŐŰÞ˝	              | U + 030B |
-|   ✓    |    ✕    | }]    | line              | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˙             | U + 0307 |
+| CTRL + | SHIFT + | Key + | Name         | Keys                      | Gives :                    | Ligature |
+|:------:|:-------:|:-----:|:------------:|:-------------------------:|:--------------------------:|:--------:|
+|   ✓    |    ✕    | /+    | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ´ | U + 0301 |
+|   ✓    |    ✕    | \*    | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ`               | U + 0300 |
+|   ✓    |    ✕    | Yow   | circumflex   | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ^     | U + 0302 |
+|   ✓    |    ✓    | /+    | diaeresis    | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ¨             | U + 0308 |
+|   ✓    |    ✓    | \*    | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ~	              | U + 0303 |
+|   ✓    |    ✓    | Yow   | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ¯               | U + 0304 |
+|   ✓    |    ✕    | -=    | breve        | agu AGU                   | ăğŭ ĂĞŬ˘                   | U + 0306 |
+|   ✓    |    ✕    | ,<    | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ¸         | U + 0327 |
+|   ✓    |    ✕    | .>    | ring,        | acegiluz ACEGILUZ         | åċėġıŀůż ÅĊĖĠİĿŮŻ˚         | U + 030A |
+|   ✓    |    ✕    | :?    | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ˛                 | U + 0328 |
+|   ✓    |    ✕    | ;!    | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
+|   ✓    |    ✕    | {[    | double acute | dout OUT                  | ðőű þŐŰÞ˝	              | U + 030B |
+|   ✓    |    ✕    | }]    | dot          | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˙             | U + 0307 |
 
 To be continued...
