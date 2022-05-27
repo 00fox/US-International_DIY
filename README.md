@@ -333,6 +333,10 @@ If we do the complete list, it gives:
 
 ![Comma](Pictures/7_SharpKeys.png)
 
+Of course a fully reprogrammable keyboard is preferable, but it remains a viable solution on his workstation with another keyboard for example, or for tiny budget.
+
+Don't worry about loops, only the original keys are reassigned. Changes will not affect an already reassigned key.
+
 ## 8. And for the layout?
 
 Use the keyboard layout creator or anything like it. You will find many examples and tutorials. But I will provide a layout and the already made executable, the one I'm talking about in this article.
