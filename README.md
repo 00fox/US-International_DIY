@@ -239,4 +239,16 @@ You can thing inoring to use a yellow key or use it to do ^ accents only, for ex
 
 ![Comma](Pictures/4_Accents.png)
 
+## 5. What about the special key?
+
+You seen I've moved win key to the left, so why?
+
+Well, if I don't use a Mix, it's yo indirectly take advantage of the additional key VK_OEM_102 of the ISO. I place this key instad of Win as a dead Key.
+
+I have another solution to quickly use a list of many characters; I'll tell you how later; Also, the characters I'll do with will be more useful than others or series, and easy to remember using the associative method too. It is not useful to override, as for the yellow keys, no other version with Shift or Control or Control+Shift, but you can think of it for example, if you have the utility of a layer of Greek.
+
+![Comma](Pictures/5_Special.png)
+
+Remember, except if you juge it necessary, we don't put the on Keycaps, nor Green (special) nor Yellow (accents). Or at the Front, possibly, accents at the front center, special characters at the front left.
+
 To be continued...
