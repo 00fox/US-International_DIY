@@ -305,7 +305,7 @@ I will give an example for sharpkeys. Thinking about this, which model is closes
 
 - The keys [{ and ]} are almost the same as {[ }] we wanted
 - The keys '" and /+(´¨) are really close
-- The keys ``~ and \*(``~) are really close
+- The keys `~ and \*(`~) are really close
 - The keys \| and |¬ are almost identical
 - The keys -_ and -= are almost identical
 - The change between /? and :? keys is easy to remember
@@ -346,12 +346,12 @@ If you absolutely want to use characters on ALTGR, without having to sacrifice R
 ![Comma](Pictures/8_ALTGR.png)
 
 But there is a trick.
--Continue until the end, save your template regularly, then compile it as is.
--Once done, in the installation directory go to the directory that corresponds to your machine, or else, do it for all.
--Open the dll you find there with a hex editor.
--Look for 01 as in the image below (the group that contains it, which can be seen in the image, is easily identifiable; even if the whole file may be different)
--Change it to 00 then save.
--And only now proceed with the installation using the msi from the root directory.
+- Continue until the end, save your template regularly, then compile it as is.
+- Once done, in the installation directory go to the directory that corresponds to your machine, or else, do it for all.
+- Open the dll you find there with a hex editor.
+- Look for 01 as in the image below (the group that contains it, which can be seen in the image, is easily identifiable; even if the whole file may be different)
+- Change it to 00 then save.
+- And only now proceed with the installation using the msi from the root directory.
 
 ![Comma](Pictures/8_Hex.png)
 
