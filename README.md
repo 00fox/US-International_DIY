@@ -357,4 +357,6 @@ But there is a trick.
 
 Normally if everything went well, the RALT key is not modified, but you can use LCTRL + RALT to enter the characters corresponding to this layout.
 
+## 9. And the solution you talked about for typing lists of charctèrtes easily?
+
 To be continued...
