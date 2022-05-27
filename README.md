@@ -251,4 +251,38 @@ I have another solution to quickly use a list of many characters; I'll tell you 
 
 Remember, except if you juge it necessary, we don't put them on Keycaps, nor Green (special) nor Yellow (accents). Or at the Front, possibly, accents at the front center, special characters at the front left.
 
+## 6. And how can I write the accents themselves?
+
+Two choices, either use the system I'm going to talk to you about later, to type lists of characters easily, or use the control key.
+
+CTRL should not be used on letters and numbers, but why not on OEM characters.
+
+And given the layout I used, it will be easier than those who tell you to use the ALTGR key with characters drawn here or there, for memotechnical means.
+
+This gives:
+
+![Comma](Pictures/6_Accents.png)
+
+We treat them like Dead keys too.
+- This means that you can write any accented letter, by doing CTRL(+Shift)+Accent+Letter.
+- Or write just the desired accent, by doing CTRL(+Shift)+Accent+Space
+- Ligatures for fonts which support them are achieved by typing the same accent again
+
+| CTRL + | SHIFT + | Key + | Name              | Keys                     | Gives :                   | Ligature |
+|:------:|:-------:|:-----:|:-----------------:|:------------------------:|:-------------------------:|:--------:|
+|   ✓    |    ✕    | /+    | acute             | aceilnorsuyzACEILNORSUYZ | áćéíĺńóŕśúýźÁĆÉÍĹŃÓŔŚÚÝŹ´ | U + 0301 |
+|   ✓    |    ✕    | \*    | grave             | aeiouAEIOU               | àèìòùÀÈÌÒÙ`               | U + 0300 |
+|   ✓    |    ✕    | Yow   | circumflex        | aceghijosuACEGHIJOSU     | âĉêĝĥîĵôŝûÂĈÊĜĤÎĴÔŜÛ^     | U + 0302 |
+|   ✓    |    ✓    | /+    | diaeresis, umlaut | aeiouyAEIOUY             | äëïöüÿÄËÏÖÜŸ¨             | U + 0308 |
+|   ✓    |    ✓    | \*    | tilde             | aionuAIONU               | ãĩõñũÃĨÕÑŨ~	            | U + 0303 |
+|   ✓    |    ✓    | Yow   | macron            | aeiouAEIOU               | āēīōūĀĒĪŌŪ¯               | U + 0304 |
+|   ✓    |    ✕    | -=    | breve             | aguAGU                   | ăğŭĂĞŬ˘                   | U + 0306 |
+|   ✓    |    ✕    | ,<    | cedilla           | cgklnrstCGKLNRST         | çģķļņŗşţÇĢĶĻŅŖŞŢ¸         | U + 0327 |
+|   ✓    |    ✕    | .>    | ring, dot         | acegiluezACEGILUZ        | åċėġıŀůżÅĊĖĠİĿŮŻ˚         | U + 030A |
+|   ✓    |    ✕    | :?    | ogonek            | aeiuAEIU                 | ąęįųĄĘĮŲ˛                 | U + 0328 |
+|   ✓    |    ✕    | ;!    | caron             | cdeilnrstzCDEILNRSTZ     | čďěǐľňřšťžČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
+|   ✓    |    ✕    | {[    | double acute      | doutOUT                  | ðőűþŐŰÞ˝	                 | U + 030B |
+|   ✓    |    ✕    | }]    | line              | dhilotDHILOT             | đħĳłøŧĐĦĲŁØŦ˙             | U + 0307 |
+
 To be continued...
+̬
