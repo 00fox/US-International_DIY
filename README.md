@@ -200,6 +200,7 @@ Or just the front
 ## 3. How to color and add characters on keys?
 
 - Order keys from a mechanical keyboard retailer
+- Clear or Translucent keycaps, paint, sratch, then varnish
 - Ink and laser pointer
 - Paint or acrylic markers then varnish
 - Thermal transfer
