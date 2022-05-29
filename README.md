@@ -383,3 +383,27 @@ It is also possible to use Autohotkey so that if you keep pressing on a colored 
 ## 10. Tests
 
 It works as expected, it's simple and fun, I also use the Autohotkey method by long press, but keep this one together, to eventually do it with a reprogrammable keyboard and for example a tablet on which I cannot use the script. Haven't done the painting yet, and hesitate to do it or wait for a next QMK compatible firmware mechanical keyboard that suits me.
+<br><br>
+
+## Related links and source
+
+KLE:  
+http://www.keyboard-layout-editor.com
+
+KLE-Render:  
+https://kle-render.herokuapp.com
+
+QMK Firmware:  
+https://qmk.fm
+
+VIA:  
+https://www.caniusevia.com
+
+Physical Keyboard Layouts Explained In Detail:  
+https://drop.com/talk/947/physical-keyboard-layouts-explained-in-detail
+
+The frequency of the letters of the alphabet in English:  
+https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html
+
+US Multilingual Keyboard Layout:  
+https://www.brianhetrick.com/kb
