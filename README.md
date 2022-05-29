@@ -377,4 +377,8 @@ I made a separate project, so it will be easier:
 RALTUnicode  
 https://github.com/ytyra/RALTUnicode
 
-To be continued...
+It is also possible to use Autohotkey so that if you keep pressing on a colored key, it makes the desired accent instead of the letter, remaining accessible with a short press. On the other hand, care must be taken to do this on all the letters, because otherwise there would be a time lag (the time to check for Autohotkey whether it is a single or double letter) which could reverse certain letters in the short of your typing. This lag is not important for a game, for example, because the games see the keys in raw mode, DirectInput etc. and not the letters themselves.
+
+## 10. Tests
+
+It works as expected, it's simple and fun, I also use the Autohotkey method by long press, but keep this one together, to eventually do it with a reprogrammable keyboard and for example a tablet on which I cannot use the script. Haven't done the painting yet, and hesitate to do it or wait for a next QMK compatible firmware mechanical keyboard that suits me.
