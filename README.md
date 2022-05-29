@@ -1,7 +1,9 @@
 # DIY-US-INTL-Keyboard
+
 Not revolutionary, but a much easier way to arrange an international layout on US keyboard than usual solutions. Especially for programmers.
 
 I will complete the project step by step
+<br><br>
 
 ## The story:
 
@@ -72,6 +74,7 @@ Not being here for this controversy, it is not mine and does not belong to me, m
 I'm not saying that to do it, but that it won't be my subject, I'll do something else.
 
 Which will therefore be: How to keep the current layout, apart from simple changes concerning the letters. How to remodify small errors such as the comma instead of M. How to make innovative and simple, but not revolutionary nor fun to reinvent the wheel, changes to accented characters. What a simple and effective placement concerning the other characters, and with what tools.
+<br><br>
 
 ## Issues:
 
@@ -98,11 +101,13 @@ That's why I'm not going to do it, I'll wait for fully reprogrammable keyboards 
 - What about mechanical keyboards?
 
 They do the job. The layout shouldn't be the essence of what they represent; they are part of a nice style like any other, but with the ability to be fully regrammable in the future, with less impact (ability to be wireless if needed, great autonomy etc.). They will not be the only ones, so they represent a fashion, viable in the long term, but not a solution to a problem, what is ergonomics, efficiency and simplicity, regardless of the choice of type of keyboard, with each one's preferences, and not the keyboard type is the solution.
+<br><br>
 
 ## Disclaimer:
 I don't have a budget, so the example will be basic, but it's the idea that counts, afterwards, everyone adapts if they want.
 
 But I will provide software solutions
+<br><br>
 
 ## 1. The choice of the keyboard
 Remember, I'm not substituting my choices for yours, I'll explain mine and how I adapt them, then you can make your own and possibly use my ideas to put them into practice.
@@ -145,6 +150,7 @@ Therefore, a 75%, a Compact, which respects the separation, or a separate Compac
 ![Comma](Pictures/Choice_Compact.png)
 
 ![Comma](Pictures/Choice_Compact_Sparated.png)
+<br><br>
 
 ## 1. My template and why
 
@@ -156,6 +162,7 @@ Ok, since template is broken, and fully programmable keyboards are rares (except
 - I could invert J and L later, without alterate my choice.
 
 ![Comma](Pictures/1_Control.png)
+<br><br>
 
 ## 2. Why ISO or MIX, and why VK_OEM_5 same size as TAB?
 
@@ -196,6 +203,7 @@ Possibly just on the edges, so as not to mix with the special keys and not to ov
 Or just the front
 
 ![Comma](Pictures/2_Colors_front.png)
+<br><br>
 
 ## 3. How to color and add characters on keys?
 
@@ -208,6 +216,7 @@ Or just the front
 Avoid stickers
 
 Fluorescent paint possible if not using backlight
+<br><br>
 
 ## 4. Full template
 
@@ -239,6 +248,7 @@ In this case the ? and \ are done by double pressing, which is still nice to do 
 You can thing inoring to use a yellow key or use it to do ^ accents only, for example. With or without using colors, dirrectly on the good letter.
 
 ![Comma](Pictures/4_Accents.png)
+<br><br>
 
 ## 5. What about the special key?
 
@@ -251,6 +261,7 @@ I have another solution to quickly use a list of many characters; I'll tell you 
 ![Comma](Pictures/5_Special.png)
 
 Remember, except if you juge it necessary, we don't put them on Keycaps, nor Green (special) nor Yellow (accents). Or at the Front, possibly, accents at the front center, special characters at the front left.
+<br><br>
 
 ## 6. And how can I write the accents themselves?
 
@@ -284,6 +295,7 @@ We treat them like Dead keys too.
 |   ✓    |    ✕    | ;!    | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
 |   ✓    |    ✕    | {[    | double acute | dout OUT                  | ðőű þŐŰÞ˝	              | U + 030B |
 |   ✓    |    ✕    | }]    | ring         | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˚             | U + 030A |
+<br><br>
 
 ## 7. And technically, how do I do?
 
@@ -336,6 +348,7 @@ If we do the complete list, it gives:
 Of course a fully reprogrammable keyboard is preferable, but it remains a viable solution on his workstation with another keyboard for example, or for tiny budget.
 
 Don't worry about loops, only the original keys are reassigned. Changes will not affect an already reassigned key.
+<br><br>
 
 ## 8. And for the layout?
 
@@ -356,7 +369,12 @@ But there is a trick.
 ![Comma](Pictures/8_Hex.png)
 
 Normally if everything went well, the RALT key is not modified, but you can use LCTRL + RALT to enter the characters corresponding to this layout.
+<br><br>
 
-## 9. And the solution you talked about for typing lists of charctèrtes easily?
+## 9. And the solution you talked about for typing lists of charcters easily?
+
+I made a separate project, so it will be easier:
+RALTUnicode  
+https://github.com/ytyra/RALTUnicode
 
 To be continued...
