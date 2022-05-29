@@ -1,8 +1,6 @@
 # DIY-US-INTL-Keyboard
 
 Not revolutionary, but a much easier way to arrange an international layout on US keyboard than usual solutions. Especially for programmers.
-
-I will complete the project step by step
 <br><br>
 
 ## The story:
@@ -31,7 +29,10 @@ Which fingers are the most significant for each letter, balance of importance, i
 
 ![Top8order](Pictures/Intro_Top8order.png)
 
-Now the ease of access, to associate with which side for each pair (letter rather analytical or letter rather synthetic or balance) and to the order of importance of the letters, which is: EARIOTNSLCUDMPHGBFYWKVXZJQ
+Now the ease of access, to associate with which side for each pair and to the order of importance of the letters, which is: EARIOTNSLCUDMPHGBFYWKVXZJQ  
+letter rather analytical  
+Or letter rather synthetic  
+Or balance of the weight
 
 ![Top8accessibility](Pictures/Intro_Top8accessibility.png)
 
@@ -40,7 +41,7 @@ Now the ease of access, to associate with which side for each pair (letter rathe
 
 ![FirstTry](Pictures/Intro_FirstTry.png)
 
-- The problems: (yes, we made this mistake again later) rather than punctuation and accentuation keys being on the same keys as the letters, we wanted them independent and easy to access, at least for the comma; the point only being placed at the end of the line. So the comma instead of the L and the point to its right. Also we could transfer the little used X to the other side before the even less used Q.
+- The problems: (yes, we made this mistake again later) rather than punctuation and accentuation keys being on the same keys as the letters, we wanted them independent and easy to access, at least for the comma; the point only being placed at the end of the line. So the comma instead of the L and the point to its right. Also we could transfer the little used of X to the other side before the even less used Q.
 
 ![Comma](Pictures/Intro_Comma.png)
 
@@ -52,13 +53,13 @@ In the meantime, I will rather dwell on other errors that have been made, and se
 
 But first, crack the polemic, explain its impacts, then move on:
 
-some consciences,
+Some consciences,
 
 Rather than making a comic of it, and leaving the fights to simple confrontations, which (, if we are not in need, which should not have been the case apart from surviving, all, on this planet) was only a game, which should have stopped depending on the consequences (with a little wisdom or cold blood and not after 400,000 years of butchery),
 
 Invent wars, for the entities, as serious vs humor, rather than a war in a comic strip, it's interesting, we have fun with it as we don't, we play it, while they are simple contradictions for the human. And we find ourselves almost forced to accept that they exist, and with that peace (yes, if you don't want war to exist as a real concept, it's because you believe it exists and you flee her in peace) and with that the emancipation and with that the relentlessness that would project a war on her that would remain only hers, yes, the war, a simple idea, apart from the consequences.
 
-Which means that in the fun of the "morons" who would project according to some who speak of others, who exist for those, who are for them, free from what did not exist, to make war, peace, to laugh, to make others project, are in their sprinkler mirror sprinkled, to go with the theme of the first typewriters in Chaplin's time; rather again, it's the content of a comic book; well it turns out that to believe themselves free, the serious ones rage with their own fun on them to want to reinvent the wheel again and do better than what we had for which they would be responsible for its destruction.
+Which means that in the fun of the "morons" who would project according to some who speak of others, who exist for those, who are for them, free from what did not exist, to make war, peace, to laugh, to make others project, are in their sprinkler mirror sprinkled, to go with the theme of the first typewriters in Chaplin's time; rather again, it's the content of a comic book; well it turns out that to believe themselves free, the serious ones rage with their own fun on them to want to reinvent the wheel again and do better than what we had for which they would be responsible for its destruction. Yes, they were better than nobody who can't have done what doesn't exists. Except consequences, and fighting was just a game at the origin of the times.
 
 And so,
 - The F and T are exchanged according to the pi law of contradictions
@@ -69,7 +70,7 @@ etc.
 
 On the other hand, the monotony is well broken, and the phonetics of the lines, easy to remember.
 
-Not being here for this controversy, it is not mine and does not belong to me, moreover, to whom in fact?,
+Not being here for this controversy, it is not mine and does not belong to me, moreover, to whom in fact?
 
 I'm not saying that to do it, but that it won't be my subject, I'll do something else.
 
@@ -90,7 +91,9 @@ They use for example ALTGR to change ' (which therefore remains pleasantly usabl
 
 Precisely, for what is the template of a country, I am looking for more fun and simpler, and modifiable by everyone according to their wishes, without contradicting the effectiveness of the base.
 
-As for the others, they reinvent the wheel in a fake fun, which does not advance much otherwise el do, because rather than presenting each his own, it was enough to go back to the last stage of the current keyboard and make something of it. 'other. Basically, they want you make do this:
+As for the others, they reinvent the wheel in a fake fun, which does not advance much except to do it, because rather than presenting each his own, it was enough to go back to the last stage of the current keyboard and make something of it.
+
+Basically, they want you make do this:
 
 ![IdealFUN](Pictures/Intro_IdealFUN.png)
 
@@ -132,7 +135,7 @@ Mix on Acgam AG6X and TedGem:
 ![Comma](Pictures/Choice_TedGem.png)
 
 - So I'm going to prefer the ANSI standard or a MIX, we'll see if you too, or if other choices are possible, or go back to other more classic but less simple projects.
-- Mechanical, Membrane or Scissors? It's up to you. Since mechanical costs a lot, I'll go on classical membrane to test, cause I love heavy touches. And I wait for fully reprogrammable ones to made changes possibles to easily use it on different computers hoping for less consumption. Membrane can last for two years with a single battery, I hop'e for one month with light backlight when I need it.
+- Mechanical, Membrane or Scissors? It's up to you. Since mechanical costs a lot, I'll go on classical membrane to test, cause I love heavy touches. And I wait for fully reprogrammable ones to made changes possibles to easily use it on different computers hoping for less consumption. Membrane can last for two years with a single battery, I hope for one month with light backlight when I need it.
 
 Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
@@ -174,7 +177,7 @@ So I decided to use this key, VK_OEM_5, and make it an accent key for the langua
 
 The fact of also using the TAB key, is to facilitate access to the letters in a symmetrical way, it is not compulsory, we can keep this key in the current state.
 
-I told you that I don't like bad surprises like Numlock etc, well they find that I don't like Caps Lock either, so I move the TAB to Caps Lock, but everyone does what they want, not to not to do or arrange otherwise, just I throw the idea, it's up to you if it's the right one or you find a better one.
+I told you that I don't like bad surprises like Numlock etc, well they find that I don't like Caps Lock either, so I move the TAB to Caps Lock, but everyone does what they want. Just, I throw the idea, it's up to you if it's the right one or you find a better one.
 
 ![Comma](Pictures/2_TAB_VK_OEM_5.png)
 
@@ -188,7 +191,7 @@ And I place them in a simple and clever way on my template (do it with your own)
 
 ![Comma](Pictures/2_Accents.png)
 
-For my part, I put the acute accents on the letter, then the low ones just at the bottom right. Then we shift one letter and place the circumflex accent and the umlaut. For the U, we move back two squares instead, but it remains very logical and memorizable. When at I we cheat a little, like a Tetris, but that's okay, it's still fun. CBN?! additional ones are obvious.
+For my part, I put the acute accents on the letter, then the grave just at the bottom right. Then we shift one letter and place the circumflex accent and the umlaut. For the U, we move back two squares instead, but it remains very logical and memorizable. When at I we cheat a little, like a Tetris, but that's okay, it's still fun. CBN?! additional ones are obvious.
 
 Note that I take advantage of the move of the M to reorganize the punctuation marks, it is not mandatory, but I might as well take advantage of it.
 
@@ -243,9 +246,9 @@ Apart from that, that's all, except that I keep the Play/Pause key and therefore
 
 Alternatively you can consider doing the accents differently, ignoring the acute and grave; by placing it differently, or putting others, more useful, in your language; and place the acute and grave symbols to the left of the yellow key.
 
-In this case the ? and \ are done by double pressing, which is still nice to do for these characters, as the _ is done by double pressing the Yellow key.
+In this case the / and \ are done by double pressing, which is still nice to do for these characters, as the _ is done by double pressing the Yellow key.
 
-You can thing inoring to use a yellow key or use it to do ^ accents only, for example. With or without using colors, dirrectly on the good letter.
+You can think of ignoring to use a yellow key or use it to do ^ accents only, for example. With or without using colors, directly on the good letter.
 
 ![Comma](Pictures/4_Accents.png)
 <br><br>
@@ -254,9 +257,9 @@ You can thing inoring to use a yellow key or use it to do ^ accents only, for ex
 
 You seen I've moved win key to the left, so why?
 
-Well, if I don't use a Mix, it's yo indirectly take advantage of the additional key VK_OEM_102 of the ISO. I place this key instad of Win as a dead Key.
+Well, if I don't use a Mix, it's to indirectly take advantage of the additional key VK_OEM_102 of the ISO. I place this key instad of Win as a dead Key.
 
-I have another solution to quickly use a list of many characters; I'll tell you how later; Also, the characters I'll do with will be more useful than others or series, and easy to remember using the associative method too. It is not useful to override, as for the yellow keys, no other version with Shift or Control or Control+Shift, but you can think of it for example, if you have the utility of a layer of Greek.
+I have another solution to quickly use a list of many characters; I'll tell you how later; Also, the characters I'll do with, will be more useful than others or series, and easy to remember using the associative method too. It is not useful to override, as for the yellow keys, it is easier to keep a simple layer and not to add combinations with with Shift or Control. But you can think of it, for example, if you need a layer of Greek.
 
 ![Comma](Pictures/5_Special.png)
 
@@ -311,7 +314,9 @@ Why? Quite simply because, for example, games see the keys in raw mode (or Direc
 
 How to do? Either with the supplied software, if the keyboard allows it, or by flashing the rom with software like VIA or QMK on mechanical keyboards, or with software like Sharpkeys for example, which allows you to modify the registry so as to exchange or reassign the keys and not change layout.
 
-I will give an example for sharpkeys. Thinking about this, which model is closest to what we wanted, which will allow us to memorize the keys, despite the new layout.
+I will give an example for sharpkeys.
+
+Thinking about this, which model is closest to what we wanted, which will allow us to memorize the keys, despite the new layout.
 
 ![Comma](Pictures/7_New.png)
 
@@ -322,6 +327,7 @@ I will give an example for sharpkeys. Thinking about this, which model is closes
 - The keys -_ and -= are almost identical
 - The change between /? and :? keys is easy to remember
 - The change between ;: and ;! keys is easy to remember
+
 So it will be easy to identify the key in a game or whatever
 
 Well, to program this, we need to know by making a list, what we changed and for what, or just reassigned:
@@ -352,9 +358,9 @@ Don't worry about loops, only the original keys are reassigned. Changes will not
 
 ## 8. And for the layout?
 
-Use the keyboard layout creator or anything like it. You will find many examples and tutorials. But I will provide a layout and the already made executable, the one I'm talking about in this article.
+Use the keyboard layout creator or anything like it. You will find many examples and tutorials. But I will provide a example of layout, the one I'm talking about in this article.
 
-If you absolutely want to use characters on ALTGR, without having to sacrifice RALT for ALTGR and manually type LEFT CONTROL + RIGHT ALT (Which is a good way to keep keys safe since the combination is hard to make by chance ), normally it is impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT, and it is not possible to unlock it manually.
+If you absolutely want to use characters on ALTGR, without having to sacrifice RALT for ALTGR and manually type LEFT CONTROL + RIGHT ALT (Which is a good way to keep keys safe since the combination is hard to make by chance), normally it is impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT, and it is not possible to unlock it manually.
 
 ![Comma](Pictures/8_ALTGR.png)
 
@@ -373,7 +379,7 @@ Normally if everything went well, the RALT key is not modified, but you can use 
 
 ## 9. And the solution you talked about for typing lists of charcters easily?
 
-I made a separate project, so it will be easier:
+I made a separate project, so it will be easier:  
 RALTUnicode  
 https://github.com/ytyra/RALTUnicode
 
