@@ -270,7 +270,7 @@ Remember, except if you juge it necessary, we don't put them on Keycaps, nor Gre
 
 Two choices, either use the system I'm going to talk to you about later, to type lists of characters easily, or use the control key.
 
-CTRL should not be used on letters and numbers, but why not on OEM characters.
+CTRL should not be used on letters and numbers, but why not on OEM characters except first line (ctrl- do zoom- for exemple). Better use CTRL+SHIFT. 
 
 And given the layout I used, it will be easier than those who tell you to use the ALTGR key with characters drawn here or there, for memotechnical means.
 
@@ -279,29 +279,31 @@ This gives:
 ![Comma](Pictures/6_Accents.png)
 
 We treat them like Dead keys too.
-- This means that you can write any accented letter, by doing CTRL(+Shift)+Accent+Letter.
-- Or write just the desired accent, by doing CTRL(+Shift)+Accent+Accent
-- Ligatures for fonts which support them are achieved by doing CTRL(+Shift)+Accent+Space
+- This means that you can write any accented letter, by doing CTRL+SHIFT+Accent+Letter.
+- Or write just the desired accent, by doing CTRL+SHIFT+Accent+Accent
+- Ligatures for fonts which support them are achieved by doing CTRL+SHIFT+Accent+Space
 - Special+Special Unbreakable space
 - Special+Space Zero Width Space
 - Yellow+Yellow Underscore
 - Yellow+Space Thin Space
 
-| CTRL + | SHIFT + | Key + | Name         | Keys                      | Gives :                    | Ligature |
-|:------:|:-------:|:-----:|:------------:|:-------------------------:|:--------------------------:|:--------:|
-|   ✓    |    ✕    | /+    | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ´ | U + 0301 |
-|   ✓    |    ✕    | \\*    | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ`               | U + 0300 |
-|   ✓    |    ✕    | Yow   | circumflex   | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ^     | U + 0302 |
-|   ✓    |    ✓    | /+    | diaeresis    | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ¨             | U + 0308 |
-|   ✓    |    ✓    | \\*    | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ~	              | U + 0303 |
-|   ✓    |    ✓    | Yow   | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ¯               | U + 0304 |
-|   ✓    |    ✕    | -=    | breve        | agu AGU                   | ăğŭ ĂĞŬ˘                   | U + 0306 |
-|   ✓    |    ✕    | ,<    | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ¸         | U + 0327 |
-|   ✓    |    ✕    | .>    | dot          | acegiluz ACEGILUZ         | åċėġıŀůż ÅĊĖĠİĿŮŻ˙         | U + 0307 |
-|   ✓    |    ✕    | :?    | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ˛                 | U + 0328 |
-|   ✓    |    ✕    | ;!    | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
-|   ✓    |    ✕    | {[    | double acute | dout DOUT                 | ðőűþ ÐŐŰÞ˝	              | U + 030B |
-|   ✓    |    ✕    | }]    | ring         | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˚             | U + 030A |
+| CTRL+SHIFT+Key | Name         | Second key                | Gives :                   | Accent    | Ligature |
+|:--------------:|:-----------:|:------------------------:|:-----------------------:|:--------:|:--------:|
+|       |        | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ   	        |     ~     | U + 0303 |
+|       1        | breve        | agu AGU                   | ăğŭ ĂĞŬ                   |     ˘     | U + 0306 |
+|       2        | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽ     |     ˇ     | U + 030C |
+|       3        | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ |     ´     | U + 0301 |
+|       4        | diaeresis    | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ             |     ¨     | U + 0308 |
+|       5        | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ               |     `     | U + 0300 |
+|       6        | circumflex   | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ     |     ^     | U + 0302 |
+|       7        | ring         | acegiluz ACEGILUZ         | åů ÅŮ                     |     ˚     | U + 030A |
+|       8        | dot          | cdehiloty CDEHILOTY       | ċėġıŀż ĊĖĠİĿŻ ȺȾ          |     ˙     | U + 0307 |
+|       {        | double acute | dout DOUT                 | ðőűþ ÐŐŰÞ                 |     ˝     | U + 030B |
+|       }        | double grave | dhilot DHILOT             | ȁȅȉȍȑȕ̏ ȀȄȈȌȐȔ             |     ˵     | U + 030F |
+|       0        | stroke       | cdehiloty CDEHILOTY       | ȼđɇħĳłøŧɏ ȻĐɆĦĲŁØŦɎ       |   U+00AD  | U + 0337 |
+|       9        | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ               |     ¯     | U + 0304 |
+|       ,        | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ         |     ¸     | U + 0327 |
+|       .        | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ                 |     ˛     | U + 0328 |
 <br><br>
 
 ## 7. And technically, how do I do?
@@ -325,9 +327,9 @@ Thinking about this, which model is closest to what we wanted, which will allow 
 ![Comma](Pictures/7_New.png)
 
 - The keys [{ and ]} are almost the same as {[ }] we wanted
-- The keys '" and /+(´¨) are really close
-- The keys `~ and \*(`~) are really close
-- The keys \| and |¬ are almost identical
+- The keys =+ and /+ are really close
+- The keys \| and \* are almost identical
+- The keys '" and Yellow is obvious
 - The keys -_ and -= are almost identical
 - The change between /? and :? keys is easy to remember
 - The change between ;: and ;! keys is easy to remember
@@ -343,13 +345,13 @@ No need to follow the route, just which one and by what.
 Then, for example, the first one:
 - Open SharpKeys
 - Click Add
-- Select or type Key: `~ (00_29) under 'Map this key'
-- Select or type Key: \| (00_2B) under 'To this key'
+- Select or type Key: -_ (00_0C) under 'Map this key'
+- Select or type Key: [{  (00_1A) under 'To this key'
 - Click 'OK'
 - Check that it has been added to the list and that it is the correct assignment
 - Click 'Write to Registry' and valid 'OK'
 - LogOut/ReLog
-The Key `~ should act now like \|, not the characters, it will be detected as a raw \| key, then we can change characters, it will stay detected as it is.
+The Key -_ should act now like [{, not the characters, it will be detected as a raw [{ key, then we can change characters, it will stay detected as it is.
 
 If we do the complete list, it gives:
 
