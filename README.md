@@ -289,7 +289,7 @@ We treat them like Dead keys too.
 
 | CTRL+SHIFT+Key | Name         | Second key                | Gives :                   | Accent    | Ligature |
 |:--------------:|:-----------:|:------------------------:|:-----------------------:|:--------:|:--------:|
-|       |        | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ   	        |     ~     | U + 0303 |
+|       \|        | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ   	        |     ~     | U + 0303 |
 |       1        | breve        | agu AGU                   | ăğŭ ĂĞŬ                   |     ˘     | U + 0306 |
 |       2        | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽ     |     ˇ     | U + 030C |
 |       3        | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ |     ´     | U + 0301 |
