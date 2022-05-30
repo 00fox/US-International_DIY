@@ -415,6 +415,9 @@ https://qmk.fm
 VIA:  
 https://www.caniusevia.com
 
+SharpKeys:  
+https://github.com/randyrants/sharpkeys
+
 Physical Keyboard Layouts Explained In Detail:  
 https://drop.com/talk/947/physical-keyboard-layouts-explained-in-detail
 
