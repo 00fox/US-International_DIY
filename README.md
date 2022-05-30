@@ -378,7 +378,7 @@ But there is a trick.
 - Open the dll you find there with a hex editor.
 - Look for 01 as in the image below (the group that contains it, which can be seen in the image, is easily identifiable; even if the whole file may be different)
 - Change it to 00 then save.
-- And only now proceed with the installation using the msi from the root directory.
+- And only now proceed with the installation using the setup.exe from the root directory.
 
 ![Comma](Pictures/8_Hex.png)
 
