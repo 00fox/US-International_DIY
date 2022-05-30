@@ -289,21 +289,21 @@ We treat them like Dead keys too.
 
 | CTRL+SHIFT+Key | Name         | Second key                | Gives :                   | Accent    | Ligature |
 |:--------------:|:-----------:|:------------------------:|:-----------------------:|:--------:|:--------:|
-|       \|        | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ   	        |     ~     | U + 0303 |
-|       1        | breve        | agu AGU                   | ăğŭ ĂĞŬ                   |     ˘     | U + 0306 |
-|       2        | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽ     |     ˇ     | U + 030C |
-|       3        | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ |     ´     | U + 0301 |
-|       4        | diaeresis    | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ             |     ¨     | U + 0308 |
-|       5        | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ               |     `     | U + 0300 |
-|       6        | circumflex   | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ     |     ^     | U + 0302 |
-|       7        | ring         | acegiluz ACEGILUZ         | åů ÅŮ                     |     ˚     | U + 030A |
-|       8        | dot          | cdehiloty CDEHILOTY       | ċėġıŀż ĊĖĠİĿŻ ȺȾ          |     ˙     | U + 0307 |
-|       {        | double acute | dout DOUT                 | ðőűþ ÐŐŰÞ                 |     ˝     | U + 030B |
-|       }        | double grave | dhilot DHILOT             | ȁȅȉȍȑȕ̏ ȀȄȈȌȐȔ             |     ˵     | U + 030F |
-|       0        | stroke       | cdehiloty CDEHILOTY       | ȼđɇħĳłøŧɏ ȻĐɆĦĲŁØŦɎ       |   U+00AD  | U + 0337 |
-|       9        | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ               |     ¯     | U + 0304 |
-|       ,        | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ         |     ¸     | U + 0327 |
-|       .        | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ                 |     ˛     | U + 0328 |
+|       \|        | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ   	        |     ~     |  U+0303  |
+|       1        | breve        | agu AGU                   | ăğŭ ĂĞŬ                   |     ˘     |  U+0306  |
+|       2        | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽ     |     ˇ     |  U+030C  |
+|       3        | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ |     ´     |  U+0301  |
+|       4        | diaeresis    | aeiouy AEIOUY             | äëïöüÿ ÄËÏÖÜŸ             |     ¨     |  U+0308  |
+|       5        | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ               |     `     |  U+0300  |
+|       6        | circumflex   | aceghijosu ACEGHIJOSU     | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ     |     ^     |  U+0302  |
+|       7        | ring         | acegiluz ACEGILUZ         | åů ÅŮ                     |     ˚     |  U+030A  |
+|       8        | dot          | cdehiloty CDEHILOTY       | ċėġıŀż ĊĖĠİĿŻ ȺȾ          |     ˙     |  U+0307  |
+|       {        | double acute | dout DOUT                 | ðőűþ ÐŐŰÞ                 |     ˝     |  U+030B  |
+|       }        | double grave | dhilot DHILOT             | ȁȅȉȍȑȕ̏ ȀȄȈȌȐȔ             |     ˵     |  U+030F  |
+|       0        | stroke       | bcdehiloty BCDEHILOTY     | ßȼđɇħĳłøŧɏ ẞȻĐɆĦĲŁØŦɎ     |   U+00AD  |  U+0337  |
+|       9        | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ               |     ¯     |  U+0304  |
+|       ,        | cedilla      | cgklnrst CGKLNRST         | çģķļņŗşţ ÇĢĶĻŅŖŞŢ         |     ¸     |  U+0327  |
+|       .        | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ                 |     ˛     |  U+0328  |
 <br><br>
 
 ## 7. And technically, how do I do?
