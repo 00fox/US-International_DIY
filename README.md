@@ -280,8 +280,12 @@ This gives:
 
 We treat them like Dead keys too.
 - This means that you can write any accented letter, by doing CTRL(+Shift)+Accent+Letter.
-- Or write just the desired accent, by doing CTRL(+Shift)+Accent+Space
-- Ligatures for fonts which support them are achieved by typing the same accent again
+- Or write just the desired accent, by doing CTRL(+Shift)+Accent+Accent
+- Ligatures for fonts which support them are achieved by doing CTRL(+Shift)+Accent+Space
+- Special+Special Unbreakable space
+- Special+Space Zero Width Space
+- Yellow+Yellow Underscore
+- Yellow+Space Thin Space
 
 | CTRL + | SHIFT + | Key + | Name         | Keys                      | Gives :                    | Ligature |
 |:------:|:-------:|:-----:|:------------:|:-------------------------:|:--------------------------:|:--------:|
@@ -296,7 +300,7 @@ We treat them like Dead keys too.
 |   ✓    |    ✕    | .>    | dot          | acegiluz ACEGILUZ         | åċėġıŀůż ÅĊĖĠİĿŮŻ˙         | U + 0307 |
 |   ✓    |    ✕    | :?    | ogonek       | aeiu AEIU                 | ąęįų ĄĘĮŲ˛                 | U + 0328 |
 |   ✓    |    ✕    | ;!    | caron        | cdeilnrstz CDEILNRSTZ     | čďěǐľňřšťž ČĎĚǏĽŇŘŠŤŽˇ     | U + 030C |
-|   ✓    |    ✕    | {[    | double acute | dout OUT                  | ðőű þŐŰÞ˝	              | U + 030B |
+|   ✓    |    ✕    | {[    | double acute | dout DOUT                 | ðőűþ ÐŐŰÞ˝	              | U + 030B |
 |   ✓    |    ✕    | }]    | ring         | dhilot DHILOT             | đħĳłøŧ ĐĦĲŁØŦ˚             | U + 030A |
 <br><br>
 
@@ -358,7 +362,11 @@ Don't worry about loops, only the original keys are reassigned. Changes will not
 
 ## 8. And for the layout?
 
-Use the keyboard layout creator or anything like it. You will find many examples and tutorials. But I will provide a example of layout, the one I'm talking about in this article.
+Two choices, either use Autohotkey for both Yellow and Special keys, or use the keyboard layout creator or anything like it. You will find many examples and tutorials.
+
+The advantage of Autohoykey is to not depend of any dead key, so no suprise; the inconvenient is, you have to stay pushed on first key before doing the second one. It's up to you.
+
+But I will provide a example of layout, the one I'm talking about in this article, and Autohotkey script, that you can add to the solution I'll talk later.
 
 If you absolutely want to use characters on ALTGR, without having to sacrifice RALT for ALTGR and manually type LEFT CONTROL + RIGHT ALT (Which is a good way to keep keys safe since the combination is hard to make by chance), normally it is impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT, and it is not possible to unlock it manually.
 
@@ -382,6 +390,8 @@ Normally if everything went well, the RALT key is not modified, but you can use 
 I made a separate project, so it will be easier:  
 RALTUnicode  
 https://github.com/ytyra/RALTUnicode
+
+You can add Autohotkey example for Yellow and Special keys, in this project, by copying assocations of keys under the section Miscellaneous.
 
 It is also possible to use Autohotkey so that if you keep pressing on a colored key, it makes the desired accent instead of the letter, remaining accessible with a short press. On the other hand, care must be taken to do this on all the letters, because otherwise there would be a time lag (the time to check for Autohotkey whether it is a single or double letter) which could reverse certain letters in the short of your typing. This lag is not important for a game, for example, because the games see the keys in raw mode, DirectInput etc. and not the letters themselves.
 <br><br>
