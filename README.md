@@ -425,6 +425,9 @@ On a symetrical PCB
 - Left one + Space gives Quadratin Space
 - Right one + Space gives Thin space
 - Special + Space gives Unbreakable space
+<br><br>
+
+But prefer 1.25 yellow.
 
 ## Related links and source
 
