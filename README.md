@@ -403,6 +403,12 @@ It is also possible to use Autohotkey so that if you keep pressing on a colored 
 It works as expected, it's simple and fun, I also use the Autohotkey method by long press, but keep this one together, to eventually do it with a reprogrammable keyboard and for example a tablet on which I cannot use the script. Haven't done the painting yet, and hesitate to do it or wait for a next QMK compatible firmware mechanical keyboard that suits me.
 <br><br>
 
+On the other hand, it seems that the left is much more solicited than the right, so it would be good, either to exchange the A and the O, or to put the A in place of the E and the E in the place of the O, the O going in both cases, in the upper left corner, which goes to a less used letter.
+-OZERTYUIAP
+-OZARTYUIEP
+
+Personally, I prefer the first.
+
 ## Related links and source
 
 KLE:  
