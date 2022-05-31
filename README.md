@@ -160,7 +160,7 @@ Therefore, a 75%, a Compact, which respects the separation, or a separate Compac
 Ok, since template is broken, and fully programmable keyboards are rares (except for the 60%) or don't offer all I need for now, I'll start with AZERTY layout, for those personnal reasons (I've used a lot QWERTY too):
 - All vowels are on the same line.
 - It's sounds good, the sound is good.
-- I don't like bad surprises, so this replaces CTRL+Q Quit with CTRL-Z Undo, and CTRL+S Save with CTRL-Y Undo, and makes them more accessible.
+- I don't like bad surprises, so this replaces CTRL+S Save with CTRL-Y Undo, and makes them more accessible.
 - I can change WXCVBN to XCVWBN and get used to it, so when I'm on a Misaligned keyboard, I don't have to do the splits, except to have fun doing it.
 - I could invert J and L later, without alterate my choice.
 
