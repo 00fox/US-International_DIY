@@ -360,6 +360,8 @@ If we do the complete list, it gives:
 Of course a fully reprogrammable keyboard is preferable, but it remains a viable solution on his workstation with another keyboard for example, or for tiny budget.
 
 Don't worry about loops, only the original keys are reassigned. Changes will not affect an already reassigned key.
+
+If you prefer to use Autohotkey rather than a layout, I suggest using for example F13-F24 for special keys like green or yellow, it's easier to make combinations. And you can have the two yellows directly different from each other, and therefore equal in accents, but different in what they do with a special key or a double tap.
 <br><br>
 
 ## 8. And for the layout?
