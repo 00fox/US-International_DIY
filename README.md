@@ -413,7 +413,7 @@ On the other hand, it seems that the left is much more solicited than the right,
 
 ![Comma](Pictures/10-Accents.png)
 
-Personally, I prefer the first.
+Personally, I prefer restart at the last step of historical one, based on letters utilisation, adpat with the ease of accents.
 
 ## Related links and source
 
