@@ -428,7 +428,7 @@ On a symetrical PCB
 ![Symetrical](Pictures/10-Symetrical.png)
 
 
-But prefer the simplest solution. Nevermind, I often have one hand on keyboard and the other on mouse, then it's nor really important.
+But prefer the simplest solution. Nevermind, I often have one hand on keyboard and the other on mouse, then it's not really important.
 <br><br>
 
 ## Related links and source
