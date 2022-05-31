@@ -418,7 +418,7 @@ Personally, I prefer restart at the last step of historical one, based on letter
 ![Symetrical](Pictures/10-Symetrical.png)
 
 On a symetrical PCB
-- I removed a button, then both yellow buttons can be different ones, having for accents same fonctions)
+- I removed a button, then both yellow buttons can be different ones (having for accents same fonctions)
 - So Left one double press gives \
 - Right one double press gives /
 - Special double press gives _
