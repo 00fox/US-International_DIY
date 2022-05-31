@@ -407,6 +407,12 @@ On the other hand, it seems that the left is much more solicited than the right,
 - OZERTYUIAP
 - OZARTYUIEP
 
+![Comma](Pictures/10-Order.png)
+
+- QOAMUYDPEI
+
+![Comma](Pictures/10-Accents.png)
+
 Personally, I prefer the first.
 
 ## Related links and source

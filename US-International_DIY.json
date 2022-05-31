@@ -1,0 +1,506 @@
+[
+  {
+    "backcolor": "#333639"
+  },
+  [
+    {
+      "c": "#cb2f2a",
+      "t": "#ffffff\n\n\n\n\n\n#3f3fff",
+      "a": 5,
+      "f": 8,
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "Esc\n\n\n\n\n\n⚙",
+    {
+      "c": "#857eb1",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "F1\n\n\n\n\n\n⌂",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff\n\n\n\n\n\n#6f6fff",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "F2\n\n\n\n\n\n🔙",
+    "F3\n\n\n\n\n\n🔛",
+    "F4\n\n\n\n\n\n🔜",
+    {
+      "c": "#857eb1",
+      "t": "#ffffff\n\n\n\n\n\n#3f3fff",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "F5\n\n\n\n\n\n♪",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff\n\n\n\n\n\n#6f6fff",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "F6\n\n\n\n\n\n⏮",
+    "F7\n\n\n\n\n\n⏯",
+    "F8\n\n\n\n\n\n⏭️",
+    {
+      "c": "#857eb1",
+      "t": "#ffffff\n\n\n\n\n\n#3f3fff",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6
+      ]
+    },
+    "F9\n\n\n\n\n\n🖩",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff\n\n\n\n\n\n#6f6fff",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "F10\n\n\n\n\n\n🔈",
+    "F11\n\n\n\n\n\n🔇",
+    {
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "F12\n\n\n\n\n\n🔊",
+    {
+      "c": "#0078a3",
+      "t": "#ffffff\n\n\n\n\n\n#3f3fff",
+      "fa": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "PrtScn\n\n\n\n\n\n🔒",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff\n\n\n\n\n\n#6f6fff"
+    },
+    "ScrLk\n\n\n\n\n\n🔅",
+    {
+      "t": "#ffffff\n\n\n\n\n\n#009900"
+    },
+    "Break\n\n\n\n\n\n🔆"
+  ],
+  [
+    {
+      "t": "#ffffff\n\n\n\n#2da67c\n\n\n\n\n\n\n#3fff3f",
+      "a": 1,
+      "fa": [
+        4,
+        5,
+        0,
+        0,
+        5,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "¬\n|\n\n\n‖\n\n\n\n\n\n\n¦",
+    "1\n&\n\n\nø\n\n\n\n\n\n\n1",
+    "2\n#\n\n\n½\n\n\n\n\n\n\n2",
+    "3\n'\n\n\n⅓\n\n\n\n\n\n\n3",
+    "4\n\"\n\n\n¼\n\n\n\n\n\n\n4",
+    "5\n%\n\n\n‰\n\n\n\n\n\n\n5",
+    "6\n^\n\n\n‱\n\n\n\n\n\n\n6",
+    "7\n°\n\n\n‘\n\n\n\n\n\n\n7",
+    "8\n§\n\n\n’\n\n\n\n\n\n\n8",
+    "9\n(\n\n\n“\n\n\n\n\n\n\n9",
+    "0\n)\n\n\n”\n\n\n\n\n\n\n0",
+    {
+      "t": "#ffffff\n#ffffff\n\n\n#2da67c\n\n\n\n\n\n\n#3fff3f",
+      "sm": "alps"
+    },
+    "+\n/\n\n\n÷\n\n\n\n\n\n\n@",
+    "∗\n\\\n\n\n×\n\n\n\n\n\n\n¶",
+    {
+      "c": "#0078a3",
+      "t": "#ffffff\n\n#00cc00",
+      "sm": "",
+      "a": 4,
+      "fa": [
+        4,
+        5,
+        7
+      ],
+      "w": 2
+    },
+    "\n\n⇐",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "a": 7,
+      "fa": [
+        3
+      ]
+    },
+    "Del"
+  ],
+  [
+    {
+      "c": "#e8a900",
+      "t": "#999999\n#3333cc\n\n\n#000000\n\n\n\n\n\n\n#303a36",
+      "sm": "alps",
+      "a": 1,
+      "fa": [
+        3,
+        7
+      ],
+      "w": 1.5
+    },
+    "\n_\n\n\n¤",
+    {
+      "c": "#00a477",
+      "t": "#ffffff\n\n\n\n#000000\n\n\n\n\n\n\n#3fff3f",
+      "a": 3,
+      "fa": [
+        9
+      ]
+    },
+    "Q\n\n\n\n⭢\n\n\n\n\n\n\nô",
+    "O\n\n\n\nœ\n\n\n\n\n\n\nó",
+    {
+      "c": "#009bca"
+    },
+    "A\n\n\n\næ\n\n\n\n\n\n\ná",
+    "M\n\n\n\n✉\n\n\n\n\n\n\nâ",
+    {
+      "c": "#d290b4"
+    },
+    "U\n\n\n\nµ\n\n\n\n\n\n\nú",
+    {
+      "c": "#cb2f2a"
+    },
+    "Y\n\n\n\n¥\n\n\n\n\n\n\nÿ",
+    {
+      "c": "#d290b4"
+    },
+    "D\n\n\n\n$\n\n\n\n\n\n\nû",
+    {
+      "c": "#f16f3b"
+    },
+    "P\n\n\n\nπ\n\n\n\n\n\n\nê",
+    "E\n\n\n\n€\n\n\n\n\n\n\né",
+    {
+      "c": "#857eb1",
+      "t": "#ffffff\n\n\n\n#ffffff\n\n\n\n\n\n\n#3fff3f"
+    },
+    "I\n\n\n\n∞\n\n\n\n\n\n\ní",
+    {
+      "t": "#ffffff\n#ffffff\n\n\n#ffffff\n\n\n\n\n\n\n#3fff3f",
+      "a": 1,
+      "fa": [
+        4,
+        5,
+        0,
+        0,
+        5
+      ]
+    },
+    "=\n-\n\n\n≠\n\n\n\n\n\n\nî",
+    {
+      "c": "#e8a900",
+      "t": "#999999\n#3333cc\n\n\n#000000\n\n\n\n\n\n\n#303a36",
+      "fa": [
+        4,
+        7
+      ],
+      "w": 1.5
+    },
+    "\n_\n\n\n¤",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "a": 7,
+      "fa": [
+        3
+      ]
+    },
+    "Menu",
+    {
+      "t": "#ffffff\n#3f3fff",
+      "a": 5,
+      "fa": [
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "\nSearch\n\n\n\n\nWin"
+  ],
+  [
+    {
+      "t": "#00cc00",
+      "a": 4,
+      "fa": [
+        7
+      ],
+      "w": 2
+    },
+    "⇒",
+    {
+      "c": "#00a477",
+      "t": "#ffffff\n\n\n\n#000000\n\n\n\n\n\n\n#3fff3f",
+      "a": 3,
+      "fa": [
+        9
+      ]
+    },
+    "S\n\n\n\n√\n\n\n\n\n\n\nö",
+    "Z\n\n\n\n⌗\n\n\n\n\n\n\nò",
+    {
+      "c": "#009bca"
+    },
+    "F\n\n\n\n⮞\n\n\n\n\n\n\nà",
+    "T\n\n\n\n™\n\n\n\n\n\n\nä",
+    {
+      "c": "#d290b4"
+    },
+    "C\n\n\n\n©\n\n\n\n\n\n\nù",
+    "L\n\n\n\n£\n\n\n\n\n\n\nü",
+    {
+      "c": "#f16f3b"
+    },
+    "N\n\n\n\n′\n\n\n\n\n\n\në",
+    "W\n\n\n\n″\n\n\n\n\n\n\nè",
+    {
+      "c": "#857eb1",
+      "t": "#ffffff\n\n\n\n#ffffff\n\n\n\n\n\n\n#3fff3f"
+    },
+    "J\n\n\n\n‴\n\n\n\n\n\n\nì",
+    "R\n\n\n\n®\n\n\n\n\n\n\nï",
+    {
+      "c": "#009057",
+      "t": "#ffffff\n\n#00cc00",
+      "a": 4,
+      "fa": [
+        9,
+        0,
+        7
+      ],
+      "w": 2
+    },
+    "\n\n⏎",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff\n#ffffff\n\n\n#2da67c\n\n\n\n\n\n\n#3fff3f",
+      "sm": "",
+      "a": 1,
+      "fa": [
+        4,
+        5,
+        7,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "[\n{\n\n\n±\n\n\n\n\n\n\n«",
+    "]\n}\n\n\n≃\n\n\n\n\n\n\n»"
+  ],
+  [
+    {
+      "t": "#00cc00",
+      "sm": "alps",
+      "a": 4,
+      "fa": [
+        7
+      ],
+      "w": 2
+    },
+    "⇑",
+    {
+      "t": "#ffffff\n\n\n\n#2da67c\n\n\n\n\n\n\n#3fff3f",
+      "a": 3,
+      "fa": [
+        9
+      ]
+    },
+    "X\n\n\n\n✕",
+    "K\n\n\n\n✓",
+    "V\n\n\n\n№",
+    {
+      "c": "#cb2f2a",
+      "t": "#ffffff\n\n\n\n#000000\n\n\n\n\n\n\n#3fff3f"
+    },
+    "B\n\n\n\n℡\n\n\n\n\n\n\nß",
+    "G\n\n\n\n·\n\n\n\n\n\n\nç",
+    "H\n\n\n\n⇌\n\n\n\n\n\n\nñ",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff\n#ffffff\n\n\n#2da67c\n\n\n\n\n\n\n#3fff3f",
+      "a": 1,
+      "fa": [
+        4,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "<\n,\n\n\n≤\n\n\n\n\n\n\n‹",
+    ">\n.\n\n\n≥\n\n\n\n\n\n\n›",
+    "?\n:\n\n\n⁇\n\n\n\n\n\n\n¿",
+    "!\n;\n\n\n‼\n\n\n\n\n\n\n¡",
+    {
+      "t": "#ffffff\n\n#00cc00",
+      "a": 4,
+      "fa": [
+        4,
+        5,
+        7
+      ],
+      "w": 2
+    },
+    "\n\n⇑",
+    {
+      "x": 1,
+      "c": "#0078a3",
+      "t": "#ffffff",
+      "a": 7
+    },
+    "⏯"
+  ],
+  [
+    {
+      "c": "#2b2c2e",
+      "t": "#999999",
+      "w": 1.5
+    },
+    "Ctrl",
+    {
+      "t": "#009900",
+      "w": 1.5
+    },
+    "Special",
+    {
+      "t": "#ffffff",
+      "w": 1.5
+    },
+    "Alt",
+    {
+      "w": 2.5
+    },
+    "",
+    {
+      "w": 2.5
+    },
+    "",
+    {
+      "w": 1.5
+    },
+    "Alt",
+    {
+      "t": "#6f6fff"
+    },
+    "Fn",
+    {
+      "t": "#999999"
+    },
+    "Ctrl",
+    {
+      "c": "#009057",
+      "t": "#3f3fff\n#ffffff",
+      "a": 5,
+      "fa": [
+        2,
+        9
+      ]
+    },
+    "Home\n◂",
+    "PgDn\n▾",
+    "End\n▸"
+  ],
+  [
+    {
+      "rx": 3,
+      "ry": 2,
+      "y": 2,
+      "x": 11
+    },
+    "PgUp\n▴"
+  ]
+]
