@@ -362,6 +362,8 @@ Of course a fully reprogrammable keyboard is preferable, but it remains a viable
 Don't worry about loops, only the original keys are reassigned. Changes will not affect an already reassigned key.
 
 If you prefer to use Autohotkey rather than a layout, I suggest using for example F13-F24 for special keys like green or yellow, it's easier to make combinations. And you can have the two yellows directly different from each other, and therefore equal in accents, but different in what they do with a special key or a double tap.
+
+Or simply ignore yellow keys and do directly long press for accents. And do something else with those keys, or leave them as they are.
 <br><br>
 
 ## 8. And for the layout?
