@@ -119,40 +119,40 @@ AINSI or ISO?
 
 ANSI, American National Standards Institute on Microsoft Designer Compact Keyboard:
 
-![Comma](Pictures/Choice_Microsoft_Designer_AINSI.png)
+![Choice_Microsoft_Designer_AINSI](Pictures/Choice_Microsoft_Designer_AINSI.png)
 
 ISO, International Organization for Standardization on the same keyboard:
 
-![Comma](Pictures/Choice_Microsoft_Designer_ISO.png)
+![Choice_Microsoft_Designer_ISO](Pictures/Choice_Microsoft_Designer_ISO.png)
 
 - For my project I need the VK_OEM_5 key above the Enter key, same size as Tab. I will explain why later. You may also want to, or not, and in some situations prefer other things, I also explain which ones and how.
 - But you can also directly take advantage of the additional key VK_OEM_102 of the ISO. Personally, I'll use it if it's there, but I can also place it elsewhere, which in fact I prefer. I'll explain how and what to do with it.
 
 Mix on Acgam AG6X and TedGem:
 
-![Comma](Pictures/Choice_Acgam_AG6X.png)
+![Choice_Acgam](Pictures/Choice_Acgam_AG6X.png)
 
-![Comma](Pictures/Choice_TedGem.png)
+![Choice_TedGem](Pictures/Choice_TedGem.png)
 
 - So I'm going to prefer the ANSI standard or a MIX, we'll see if you too, or if other choices are possible, or go back to other more classic but less simple projects.
 - Mechanical, Membrane or Scissors? It's up to you. Since mechanical costs a lot, I'll go on classical membrane to test, cause I love heavy touches. And I wait for fully reprogrammable ones to made changes possibles to easily use it on different computers hoping for less consumption. Membrane can last for two years with a single battery, I hope for one month with light backlight when I need it.
 
 Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
-![Comma](Pictures/Choice_Logitech_K230.png)
+![Choice_Logitech](Pictures/Choice_Logitech_K230.png)
 
-![Comma](Pictures/Choice_X9_Performance_102-key_Wireless.png)
+![Choice_X9_Performance](Pictures/Choice_X9_Performance_102-key_Wireless.png)
 
 - Full-sized, 1800 Compact, 96%, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speak of Compact and 75%, But you can adapt.
 - In case of 1800 Compact, space between numpad and the rest or not? It depends. Space respect more syntetic and analitic differences, but it's less compact. So if you do it more compact, you have to find another way to separate theme resecting your brain. Thinking again with scientific and universal and simple. It seems that offsetting the arrow keys and painting them another color is the easiest way. And be careful, again, some have forgotten why we did it, and therefore do it without painting the keys, which makes it difficult to use, much more than separated, or else, they do it by design, like the jumper headless, including minus numpad, on keyboards smaller than 75% or Tenkeyless.
 
 Therefore, a 75%, a Compact, which respects the separation, or a separate Compact.
 
-![Comma](Pictures/Choice_75.png)
+![Choice_75](Pictures/Choice_75.png)
 
-![Comma](Pictures/Choice_Compact.png)
+![Choice_Compact](Pictures/Choice_Compact.png)
 
-![Comma](Pictures/Choice_Compact_Sparated.png)
+![Choice_Compact_Sparated](Pictures/Choice_Compact_Sparated.png)
 <br><br>
 
 ## 1. My template and why
@@ -164,7 +164,7 @@ Ok, since template is broken, and fully programmable keyboards are rares (except
 - I can change WXCVBN to XCVWBN and get used to it, so when I'm on a Misaligned keyboard, I don't have to do the splits, except to have fun doing it.
 - I could invert J and L later, without alterate my choice.
 
-![Comma](Pictures/1_Control.png)
+![Control](Pictures/1_Control.png)
 <br><br>
 
 ## 2. Why ISO or MIX, and why VK_OEM_5 same size as TAB?
@@ -179,7 +179,7 @@ The fact of also using the TAB key, is to facilitate access to the letters in a 
 
 I told you that I don't like bad surprises like Numlock etc, well they find that I don't like Caps Lock either, so I move the TAB to Caps Lock, but everyone does what they want. Just, I throw the idea, it's up to you if it's the right one or you find a better one.
 
-![Comma](Pictures/2_TAB_VK_OEM_5.png)
+![TAB_VK_OEM_5](Pictures/2_TAB_VK_OEM_5.png)
 
 I take an Example; imagine that I want to be able to write in French, Spanish and German very easily, without losing the functionality of essential keys. First I consider the accents and additional characters I need:
 - English: à - â - ä - é - è - ê - ë - î - ï - ô - ö - ù - û - ü - ÿ - ç
@@ -189,7 +189,7 @@ I take an Example; imagine that I want to be able to write in French, Spanish an
 And I place them in a simple and clever way on my template (do it with your own)
 
 
-![Comma](Pictures/2_Accents.png)
+![Accents](Pictures/2_Accents.png)
 
 For my part, I put the acute accents on the letter, then the grave just at the bottom right. Then we shift one letter and place the circumflex accent and the umlaut. For the U, we move back two squares instead, but it remains very logical and memorizable. When at I we cheat a little, like a Tetris, but that's okay, it's still fun. CBN?! additional ones are obvious.
 
@@ -197,15 +197,15 @@ Note that I take advantage of the move of the M to reorganize the punctuation ma
 
 Now better to add colors instead of engrave them on the keys. I leave the characters but imagine that they are no longer there.
 
-![Comma](Pictures/2_Colors.png)
+![Colors](Pictures/2_Colors.png)
 
 Possibly just on the edges, so as not to mix with the special keys and not to overload the keyboard.
 
-![Comma](Pictures/2_Colors_less.png)
+![Less](Pictures/2_Colors_less.png)
 
 Or just the front
 
-![Comma](Pictures/2_Colors_front.png)
+![Front](Pictures/2_Colors_front.png)
 <br><br>
 
 ## 3. How to color and add characters on keys?
@@ -235,14 +235,14 @@ Of course it's as you wish, but personally for this project, I'm going to keep t
 
 Note that the numpad has no other functions, which is why I put the Play/Pause key instead of the Numlock, this avoids unpleasant surprises.
 
-![Comma](Pictures/4_Compact.png)
+![Compact](Pictures/4_Compact.png)
 
 If it's 75%, the numbers have to be done with shift, or even reverse up and down if you're not a programmer and you use them really often.
 - But I don't replace what the yellow key can do, so as not to create too big differences between the two sizes, you can for example have a small one in the bag and a large one at home. I would keep the same idea in mind if I did a 60%.
 
 Apart from that, that's all, except that I keep the Play/Pause key and therefore combine the Win key and the Search key.
 
-![Comma](Pictures/4_75.png)
+![75](Pictures/4_75.png)
 
 Alternatively you can consider doing the accents differently, ignoring the acute and grave; by placing it differently, or putting others, more useful, in your language; and place the acute and grave symbols to the left of the yellow key.
 
@@ -250,7 +250,7 @@ In this case the / and \ are done by double pressing, which is still nice to do 
 
 You can think of ignoring to use a yellow key or use it to do ^ accents only, for example. With or without using colors, directly on the good letter.
 
-![Comma](Pictures/4_Accents.png)
+![Accents](Pictures/4_Accents.png)
 <br><br>
 
 ## 5. What about the special key?
@@ -261,7 +261,7 @@ Well, if I don't use a Mix, it's to indirectly take advantage of the additional 
 
 I have another solution to quickly use a list of many characters; I'll tell you how later; Also, the characters I'll do with, will be more useful than others or series, and easy to remember using the associative method too. It is not useful to override, as for the yellow keys, it is easier to keep a simple layer and not to add combinations with with Shift or Control. But you can think of it, for example, if you need a layer of Greek.
 
-![Comma](Pictures/5_Special.png)
+![Special](Pictures/5_Special.png)
 
 Remember, except if you juge it necessary, we don't put them on Keycaps, nor Green (special) nor Yellow (accents). Or at the Front, possibly, accents at the front center, special characters at the front left.
 <br><br>
@@ -276,7 +276,7 @@ And given the layout I used, it will be easier than those who tell you to use th
 
 This gives:
 
-![Comma](Pictures/6_Accents.png)
+![Accents](Pictures/6_Accents.png)
 
 We treat them like Dead keys too.
 - This means that you can write any accented letter, by doing CTRL+SHIFT+Accent+Letter.
@@ -312,7 +312,7 @@ Ok, I take a practical case
 
 we start with this:
 
-![Comma](Pictures/7_Old.png)
+![Old](Pictures/7_Old.png)
 
 The first thing to do is to physically move the keys, not immediately change the layout.
 
@@ -324,7 +324,7 @@ I will give an example for sharpkeys.
 
 Thinking about this, which model is closest to what we wanted, which will allow us to memorize the keys, despite the new layout.
 
-![Comma](Pictures/7_New.png)
+![New](Pictures/7_New.png)
 
 - The keys [{ and ]} are almost the same as {[ }] we wanted
 - The keys =+ and /+ are really close
@@ -338,7 +338,7 @@ So it will be easy to identify the key in a game or whatever
 
 Well, to program this, we need to know by making a list, what we changed and for what, or just reassigned:
 
-![Comma](Pictures/7_Moves.png)
+![Moves](Pictures/7_Moves.png)
 
 No need to follow the route, just which one and by what.
 
@@ -355,7 +355,7 @@ The Key -_ should act now like [{, not the characters, it will be detected as a 
 
 If we do the complete list, it gives:
 
-![Comma](Pictures/7_SharpKeys.png)
+![SharpKeys](Pictures/7_SharpKeys.png)
 
 Of course a fully reprogrammable keyboard is preferable, but it remains a viable solution on his workstation with another keyboard for example, or for tiny budget.
 
@@ -372,7 +372,7 @@ But I will provide a example of layout, the one I'm talking about in this articl
 
 If you absolutely want to use characters on ALTGR, without having to sacrifice RALT for ALTGR and manually type LEFT CONTROL + RIGHT ALT (Which is a good way to keep keys safe since the combination is hard to make by chance), normally it is impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT, and it is not possible to unlock it manually.
 
-![Comma](Pictures/8_ALTGR.png)
+![ALTGR](Pictures/8_ALTGR.png)
 
 But there is a trick.
 - Continue until the end, save your template regularly, then compile it as is.
@@ -382,7 +382,7 @@ But there is a trick.
 - Change it to 00 then save.
 - And only now proceed with the installation using the setup.exe from the root directory.
 
-![Comma](Pictures/8_Hex.png)
+![Hex](Pictures/8_Hex.png)
 
 Normally if everything went well, the RALT key is not modified, but you can use LCTRL + RALT to enter the characters corresponding to this layout.
 <br><br>
@@ -407,13 +407,24 @@ On the other hand, it seems that the left is much more solicited than the right,
 - OZERTYUIAP
 - OZARTYUIEP
 
-![Comma](Pictures/10-Order.png)
+![Order](Pictures/10-Order.png)
 
 - QOAMUYDPEI
 
-![Comma](Pictures/10-Accents.png)
+![Accents](Pictures/10-Accents.png)
 
 Personally, I prefer restart at the last step of historical one, based on letters utilisation, adpat with the ease of accents.
+
+![Symetrical](Pictures/10-Symetrical.png)
+
+On a symetrical PCB
+- I removed a button, then both yellow buttons can be different ones, having for accents same fonctions)
+- So Left one double press gives \
+- Right one double press gives /
+- Special double press gives _
+- Left one + Space gives Quadratin Space
+- Right one + Space gives Thin space
+- Special + Space gives Unbreakable space
 
 ## Related links and source
 
