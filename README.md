@@ -368,7 +368,7 @@ Or simply ignore yellow keys and do directly long press for accents. And do some
 
 ## 8. And for the layout?
 
-Two choices, either use Autohotkey for both Yellow and Special keys, or use the keyboard layout creator or anything like it. You will find many examples and tutorials.
+Two choices, either use Autohotkey for both Yellow and Special keys, or only long press, or use the keyboard layout creator or anything like it. You will find many examples and tutorials.
 
 The advantage of Autohoykey is to not depend of any dead key, so no suprise; the inconvenient is, you have to stay pushed on first key before doing the second one. It's up to you.
 
