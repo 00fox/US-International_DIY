@@ -168,8 +168,8 @@
     "'\n\n\n\n⅓\n\n\n\n\n\n\n3",
     "\"\n\n\n\n¼\n\n\n\n\n\n\n4",
     "%\n\n\n\n‰\n\n\n\n\n\n\n5",
-    "°\n\n\n\n‱\n\n\n\n\n\n\n6",
-    "^\n\n\n\n⮞\n\n\n\n\n\n\n7",
+    "^\n\n\n\n⮞\n\n\n\n\n\n\n6",
+    "°\n\n\n\n‱\n\n\n\n\n\n\n7",
     {
       "fa": [
         5,
@@ -242,24 +242,14 @@
       "t": "#00cc00\n\n\n\n#2da67c",
       "a": 0,
       "fa": [
-        7,
-        2,
-        7,
-        0,
-        0,
-        0,
-        3,
-        0,
-        0,
-        0,
-        0
+        7
       ],
       "w": 1.5
     },
     "⇒\n\n\n\n¤",
     {
       "c": "#00a477",
-      "t": "#ffffff\n\n\n\n#ffffff\n\n\n\n\n\n\n#3fff3f",
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n\n#3fff3f",
       "a": 3
     },
     "AQ\n\n\n\nª\n\n\n\n\n\n\ná",
@@ -276,13 +266,9 @@
       "c": "#857eb1"
     },
     "T\n\n\n\n™\n\n\n\n\n\n\ní",
-    {},
     "YZ\n\n\n\n¥\n\n\n\n\n\n\nî",
     {
-      "c": "#d290b4",
-      "fa": [
-        9
-      ]
+      "c": "#d290b4"
     },
     "U\n\n\n\nµ\n\n\n\n\n\n\nú",
     "I\n\n\n\n∞\n\n\n\n\n\n\nû",
@@ -339,7 +325,7 @@
     "▒\n=\n\n\n≠\n\n\n\n\n\n\n─",
     {
       "c": "#e8a900",
-      "t": "#3333cc\n#3333cc\n\n\n\n\n#3333cc",
+      "t": "#3333cc",
       "a": 5,
       "fa": [
         3,
@@ -374,7 +360,7 @@
     "|⇒\n\n\n\n\n\n\n\n(alt+tab)",
     {
       "c": "#00a477",
-      "t": "#ffffff\n\n\n\n#ffffff\n\n\n\n\n\n\n#3fff3f",
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n\n#3fff3f",
       "a": 3
     },
     "QA\n\n\n\n⭢\n\n\n\n\n\n\nà",
@@ -452,12 +438,12 @@
       "fa": [
         7
       ],
-      "w": 2
+      "w": 2.25
     },
     "⇑",
     {
       "c": "#00a477",
-      "t": "#ffffff\n\n\n\n#ffffff\n\n\n\n\n\n\n#3fff3f",
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n\n#3fff3f",
       "a": 3,
       "fa": [
         5
@@ -509,7 +495,7 @@
         5,
         7
       ],
-      "w": 2
+      "w": 1.75
     },
     "\n\n⇑",
     {
