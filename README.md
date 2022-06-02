@@ -370,7 +370,9 @@ Or simply ignore yellow keys and do directly long press for accents. And do some
 
 Two choices, either use Autohotkey for both Yellow and Special keys, or only long press, or use the keyboard layout creator or anything like it. You will find many examples and tutorials.
 
-The advantage of Autohoykey is to not depend of any dead key, so no suprise; the inconvenient is, you have to stay pushed on first key before doing the second one. It's up to you.
+The advantage of Autohoykey is to not depend of any dead key, so no suprise.
+- You can modify your keys to hardware unused keys, like sc055, sc059 etc, and use them in your script, and be layout independant, just the need of your script, which runs without installation. Even on another computer if you have a reprogrammable keyboard
+- You can run a timer for sepcial keys, so it has the adventage of dead keys, (not stay puished for a combo) but not the inconvenient to have to do a false character if you type on it by mistake
 
 But I will provide a example of layout, the one I'm talking about in this article, and Autohotkey script, that you can add to the solution I'll talk later.
 
