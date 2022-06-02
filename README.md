@@ -437,8 +437,9 @@ But prefer the simplest solution. Nevermind, I often have one hand on keyboard a
 
 The better option I've found is:
 - Use a fully programmable keyboard
-- Do 3 custom layout, one for each common layout (AZERTY QWERTY QWERTZ) the you will be OS independant
-  - Invert Z with Y for example, then Y from your keyboard will stay Y on the system
+- Do 3 custom layouts, one for each common layout (AZERTY QWERTY QWERTZ) the you will be OS independant
+  - Invert Z with Y for example, in one of thiose layouts. then Y from your keyboard will stay Y on the system
+  - Don't change the layout on computer but on your keyboard
   - Place your keys where you want them
 - On each layout, place a special key with some unuesed code, the same for a menu key which will do the unicode list for ex. SC055, SC059
 - On windows for example, use Autohotkey to:
@@ -446,8 +447,9 @@ The better option I've found is:
   - Change the value of a key if Special hotkey was pressed less than two seconds ago (see US-International_DIY.ahk example)
   - Choose what physically key do (then be layout independant, for that, in the example don't use Y as source but the key code of the physical key, SC015)
   - Do the accent you want if you long press a key (do this for all keys, even without accent, to avoid inversions due to delay)
-- Find equivalent soluytions on linux mac android or, use a combination, or sending unicode characters, Linux ctrl+shift+u+code+space for example.
+- Find equivalent solutions on linux-Mac-Android, or use a combination, or sending unicode characters, Linux ctrl+shift+u+code+space for example.
 - Optionally color the keys of the same group as described
+<br><br>
 
 ## Related links and source
 
