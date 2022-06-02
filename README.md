@@ -442,7 +442,7 @@ The better option I've found is:
   - Don't change the layout on computer but on your keyboard
   - Place your keys where you want them
 - On each layout, place a special key with some unuesed code, the same for a menu key which will do the unicode list for ex. SC055, SC059
-- If you don't have one, place the system layout according your keyboard
+- If you don't have one, place the system layout according to your keyboard
 - On windows for example, use Autohotkey to:
   - Launch the unicode list when you press Menu button (see RALTUnicode)
   - Change the value of a key if Special hotkey was pressed less than two seconds ago (see US-International_DIY.ahk example)
