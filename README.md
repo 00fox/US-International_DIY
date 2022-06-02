@@ -451,6 +451,8 @@ The better option I've found is:
 - Or use only RALTUnicode and use Mod-Tap Tap Dance etc. functions of QMK, VIA etc. to replace Autohotkey to send unicode
 - Find equivalent solutions on linux-Mac-Android, or use a combination, or sending unicode characters, Linux ctrl+shift+u+code+space for example.
 - Optionally color the keys of the same group as described
+
+![End](Pictures/11-End.png)
 <br><br>
 
 ## Related links and source
