@@ -453,6 +453,10 @@ The better option I've found is:
 - Optionally color the keys of the same group as described
 
 ![End](Pictures/11-End.png)
+- Yellow inscriptions are done by long press
+- Green ones are done with Special key (timer, no need to stay pressed)
+- Blue ones with Fn key
+- The yellow key Unicode launch and control RALTUnicode
 <br><br>
 
 ## Related links and source
