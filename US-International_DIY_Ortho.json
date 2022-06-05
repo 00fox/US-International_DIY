@@ -9,13 +9,7 @@
       "a": 5,
       "f": 8,
       "fa": [
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        3
       ]
     },
     "Esc\n\n\n\n⚙",
@@ -68,12 +62,12 @@
         2
       ]
     },
-    "#\n\n\n\n½\nCplk",
-    "'\n\n\n\n⅓\nNmlk",
+    "#\n\n\n\n½\nNmlk",
+    "'\n\n\n\n⅓\nCplk",
     "\"\n\n\n\n¼\nScLk",
     "%\n\n\n\n‰\nBrk",
-    "^\n\n\n\n‱\nWnL",
-    "°\n\n\n\n¤\nWnR",
+    "^\n\n\n\n‱\nMenu",
+    "°\n\n\n\n¤\nSrch",
     {
       "fa": [
         5,
@@ -84,13 +78,13 @@
         2
       ]
     },
-    "¶\n\n\n\n§\nSrch",
-    "(\n\n\n\n‘\nMenu",
-    ")\n\n\n\n’\nPrSc",
+    "¶\n\n\n\n§\nPrSc",
+    "(\n\n\n\n‘\nWnL",
+    ")\n\n\n\n’\nWnR",
     {
       "x": 0.25,
       "c": "#0078a3",
-      "t": "#ffffff\n\n#00cc00\n\n#cfcfff",
+      "t": "#ffffff\n\n#00cc00",
       "sm": "alps",
       "a": 4,
       "fa": [
@@ -102,7 +96,7 @@
     "\n\n⇐",
     {
       "c": "#2b2c2e",
-      "t": "#ffffff\n\n\n\n\n#3f3fff\n\n\n\n\n\n#3f3fff",
+      "t": "#ffffff\n\n\n\n\n#3f3fff",
       "a": 3,
       "fa": [
         3
@@ -112,7 +106,6 @@
     {
       "x": 0.25,
       "t": "#ffffff\n\n\n\n#3fff3f\n#3f3fff",
-      "sm": "",
       "fa": [
         6,
         0,
@@ -148,7 +141,6 @@
     {
       "y": -0.75,
       "t": "#00cc00\n\n\n\n#2da67c",
-      "sm": "alps",
       "a": 0,
       "fa": [
         7
@@ -242,7 +234,6 @@
       "x": 14.75,
       "c": "#2b2c2e",
       "t": "#ffffff\n\n\n\n#3fff3f\n#3f3fff",
-      "sm": "",
       "a": 3,
       "fa": [
         6,
@@ -264,7 +255,6 @@
     {
       "y": -0.75,
       "t": "#3f3fff",
-      "sm": "alps",
       "a": 7,
       "fa": [
         4
@@ -353,7 +343,6 @@
       "x": 14.75,
       "c": "#2b2c2e",
       "t": "#ffffff\n\n\n\n#3fff3f\n#3f3fff",
-      "sm": "",
       "fa": [
         6,
         0,
@@ -376,7 +365,6 @@
     {
       "y": -0.75,
       "t": "#00cc00",
-      "sm": "alps",
       "a": 4,
       "f": 8,
       "fa": [
@@ -504,7 +492,6 @@
     },
     "",
     {
-      "t": "#ffffff\n\n\n\n#3f3fff",
       "w": 1.25
     },
     "Alt",
@@ -531,7 +518,7 @@
     "»\n}\n\n\n”\n\n\n\n\n\n\n]",
     {
       "x": 0.25,
-      "t": "#999999\n\n\n\n#3f3fff",
+      "t": "#999999",
       "a": 7,
       "w": 1.5
     },
