@@ -62,12 +62,12 @@
         2
       ]
     },
-    "#\n\n\n\n½\nCplk",
-    "'\n\n\n\n⅓\nNmlk",
+    "#\n\n\n\n½\nNmlk",
+    "'\n\n\n\n⅓\nCplk",
     "\"\n\n\n\n¼\nScLk",
     "%\n\n\n\n‰\nBrk",
-    "^\n\n\n\n‱\nWnL",
-    "°\n\n\n\n¤\nWnR",
+    "^\n\n\n\n‱\nMenu",
+    "°\n\n\n\n¤\nSrch",
     {
       "fa": [
         5,
@@ -78,9 +78,9 @@
         2
       ]
     },
-    "¶\n\n\n\n§\nSrch",
-    "(\n\n\n\n‘\nMenu",
-    ")\n\n\n\n’\nPrSc",
+    "¶\n\n\n\n§\nPrSc",
+    "(\n\n\n\n‘\nWnL",
+    ")\n\n\n\n’\nWnR",
     {
       "x": 0.25,
       "c": "#0078a3",
@@ -132,18 +132,19 @@
       "x": 0.25,
       "c": "#009bca",
       "t": "#3f3fff\n\n\n\n#3fff3f",
-      "sm": "",
       "a": 7,
-      "f": 3
+      "f": 3,
+      "fa": [
+        6
+      ]
     },
-    "▶⏸\n\n\n\nClear"
+    "⏯\n\n\n\nBkLt"
   ],
   [
     {
       "x": 14.75,
       "c": "#2b2c2e",
       "t": "#ffffff\n\n\n\n#3fff3f\n#3f3fff",
-      "sm": "alps",
       "a": 3,
       "f": 8,
       "fa": [
@@ -253,7 +254,6 @@
       "x": 3.5,
       "c": "#2b2c2e",
       "t": "#ffffff\n\n\n\n#3fff3f",
-      "sm": "",
       "a": 7,
       "f": 3,
       "fa": [
@@ -267,7 +267,6 @@
       "y": -0.25,
       "x": 14.75,
       "t": "#ffffff\n\n\n\n#3fff3f\n#3f3fff",
-      "sm": "alps",
       "a": 3,
       "f": 8,
       "fa": [
@@ -281,9 +280,6 @@
     },
     "1\n\n\n\n🔒\nF1",
     "2\n\n\n\n🔅\nF2",
-    {
-      "t": "#ffffff\n\n\n\n#9fff9f\n#3f3fff"
-    },
     "3\n\n\n\n🔆\nF3"
   ],
   [
@@ -375,7 +371,6 @@
       "x": 4.5,
       "c": "#2b2c2e",
       "t": "#ffffff\n\n\n\n#3fff3f",
-      "sm": "",
       "a": 7,
       "f": 3,
       "fa": [
@@ -389,7 +384,6 @@
       "y": -0.25,
       "x": 14.75,
       "t": "#ffffff\n\n\n\n#3fff3f\n#3f3fff",
-      "sm": "alps",
       "a": 3,
       "f": 8,
       "fa": [
