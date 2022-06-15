@@ -452,11 +452,13 @@ The better option I've found is:
 - Find equivalent solutions on linux-Mac-Android, or use a combination, or sending unicode characters, Linux ctrl+shift+u+code+space for example.
 - Optionally color the keys of the same group as described
 
-![End](Pictures/11-End.png)
+![End](US-International_DIY_Ortho.png)
 - Yellow inscriptions are done by long press
 - Green ones are done with Special key (timer, no need to stay pressed)
 - Blue ones with Fn key
 - The yellow key Unicode launch and control RALTUnicode
+
+![End](US-International_DIY_Mu.png)
 <br><br>
 
 ## Related links and source
