@@ -262,20 +262,18 @@
   ],
   [
     {
-      "t": "#cccccc\n#3fff3f",
-      "a": 5,
+      "t": "#3f3fff\n\n\n\n#3fff3f",
+      "a": 7,
       "fa": [
         4,
-        2,
+        5,
         1,
         0,
-        0,
-        0,
-        4
+        2
       ],
       "w": 1.25
     },
-    "\nUnicode\n\n\n\n\n⏯",
+    "⏯\n\n\n\nUnicode",
     {
       "t": "#30cf78\n\n\n\n#2da67c\n\n\n\n\n\n\n#3fff3f",
       "a": 3,
