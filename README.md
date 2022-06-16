@@ -125,7 +125,7 @@ ISO, International Organization for Standardization on the same keyboard:
 
 ![Choice_Microsoft_Designer_ISO](Pictures/Choice_Microsoft_Designer_ISO.png)
 
-- For my project I need the VK_OEM_5 key above the Enter key, same size as Tab. I will explain why later. You may also want to, or not, and in some situations prefer other things, I also explain which ones and how.
+- For my project I need the VK_OEM_5 key above the Enter key, same size as Tab. I will explain why later. Not necessary, other solutions exists, but it will be simplier to explain with. You may also want to, or not, and in some situations prefer other things, I also explain which ones and how.
 - But you can also directly take advantage of the additional key VK_OEM_102 of the ISO. Personally, I'll use it if it's there, but I can also place it elsewhere, which in fact I prefer. I'll explain how and what to do with it.
 
 Mix on Acgam AG6X and TedGem:
@@ -143,16 +143,8 @@ Two good suitors: Logitech K230 and X9 Performance 102-key Wireless
 
 ![Choice_X9_Performance](Pictures/Choice_X9_Performance_102-key_Wireless.png)
 
-- Full-sized, 1800 Compact, 96%, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again. Personally, I'll speak of Compact and 75%, But you can adapt.
+- Full-sized, 1800 Compact, 96%, Tenkeyless, 75%, 65%, 60% or 40%? It's up to you again.I'll explain with a 75%, But you can adapt.
 - In case of 1800 Compact, space between numpad and the rest or not? It depends. Space respect more syntetic and analitic differences, but it's less compact. So if you do it more compact, you have to find another way to separate theme resecting your brain. Thinking again with scientific and universal and simple. It seems that offsetting the arrow keys and painting them another color is the easiest way. And be careful, again, some have forgotten why we did it, and therefore do it without painting the keys, which makes it difficult to use, much more than separated, or else, they do it by design, like the jumper headless, including minus numpad, on keyboards smaller than 75% or Tenkeyless.
-
-Therefore, a 75%, a Compact, which respects the separation, or a separate Compact.
-
-![Choice_75](Pictures/Choice_75.png)
-
-![Choice_Compact](Pictures/Choice_Compact.png)
-
-![Choice_Compact_Sparated](Pictures/Choice_Compact_Sparated.png)
 <br><br>
 
 ## 1. My template and why
@@ -210,8 +202,10 @@ Or just the front
 
 ## 3. How to color and add characters on keys?
 
+- In all cases accents places can be identified with backlight
 - Order keys from a mechanical keyboard retailer
 - Clear or Translucent keycaps, paint, sratch, then varnish
+- Puding keycaps, markers, sratch, then varnish
 - Ink and laser pointer
 - Paint or acrylic markers then varnish
 - Thermal transfer
@@ -238,9 +232,8 @@ Note that the numpad has no other functions, which is why I put the Play/Pause k
 ![Compact](Pictures/4_Compact.png)
 
 If it's 75%, the numbers have to be done with shift, or even reverse up and down if you're not a programmer and you use them really often.
-- But I don't replace what the yellow key can do, so as not to create too big differences between the two sizes, you can for example have a small one in the bag and a large one at home. I would keep the same idea in mind if I did a 60%.
 
-Apart from that, that's all, except that I keep the Play/Pause key and therefore combine the Win key and the Search key.
+Apart from that, that's all, no difference.
 
 ![75](Pictures/4_75.png)
 
@@ -438,9 +431,10 @@ But prefer the simplest solution. Nevermind, I often have one hand on keyboard a
 The better option I've found is:
 - Use a fully programmable keyboard
 - Do 3 custom layouts, one for each common layout (AZERTY QWERTY QWERTZ) the you will be OS independant
-  - Invert Z with Y for example, in one of thiose layouts. then Y from your keyboard will stay Y on the system
+  - Invert Z with Y for example, in one of those layouts. then Y from your keyboard will stay Y on the system
   - Don't change the layout on computer but on your keyboard
-  - Place your keys where you want them
+  - Place your other keys where you want them
+  - I know only on ealyout is suffisant, but even if you send a key, a game can be configured to consider it at another system layout place
 - On each layout, place a special key with some unuesed code, the same for a menu key which will do the unicode list for ex. SC055, SC059
 - If you don't have one, place the system layout according to your keyboard
 - On windows for example, use Autohotkey to:
@@ -450,7 +444,7 @@ The better option I've found is:
   - Do the accent you want if you long press a key (do this for all keys, even without accent, to avoid inversions due to delay)
 - Or use only RALTUnicode and use Mod-Tap Tap Dance etc. functions of QMK, VIA etc. to replace Autohotkey to send unicode
 - Find equivalent solutions on linux-Mac-Android, or use a combination, or sending unicode characters, Linux ctrl+shift+u+code+space for example.
-- Optionally color the keys of the same group as described
+- Optionally color the keys of the same group as described, or simply use backlight
 
 ![End](US-International_DIY_Ortho.png)
 - Yellow inscriptions are done by long press
@@ -458,7 +452,15 @@ The better option I've found is:
 - Blue ones with Fn key
 - The yellow key Unicode launch and control RALTUnicode
 
-![End](US-International_DIY_Mu.png)
+![Mu](US-International_DIY_Mu.png)
+
+![Ortho75](US-International_DIY_Ortho75.png)
+
+![1800](US-International_DIY_1800.png)
+
+![75](US-International_DIY_75.png)
+
+![65](US-International_DIY_65.png)
 <br><br>
 
 ## Related links and source
