@@ -169,8 +169,6 @@ So I decided to use this key, VK_OEM_5, and make it an accent key for the langua
 
 The fact of also using the TAB key, is to facilitate access to the letters in a symmetrical way, it is not compulsory, we can keep this key in the current state.
 
-I told you that I don't like bad surprises like Numlock etc, well they find that I don't like Caps Lock either, so I move the TAB to Caps Lock, but everyone does what they want. Just, I throw the idea, it's up to you if it's the right one or you find a better one.
-
 ![TAB_VK_OEM_5](Pictures/2_TAB_VK_OEM_5.png)
 
 I take an Example; imagine that I want to be able to write in French, Spanish and German very easily, without losing the functionality of essential keys. First I consider the accents and additional characters I need:
@@ -225,17 +223,9 @@ Now it's time to complete what we do with the normal keys and with the yellow ke
 - the {[ }] keys are placed on the top line next to special characters, notably braces, and each is a very useful, with visual and associative logic of which finger to do it.
 - Yellow keys do the numbers and extremely memorizable associative characters. I don't complete others letters, as it would be break the template if someone do another positionnement for the accents.
 
-Of course it's as you wish, but personally for this project, I'm going to keep this common basis, it's the use or not of the yellow keys and the position of the accents to which I would leave more freedom.
+Of course it's as you wish.
 
-Note that the numpad has no other functions, which is why I put the Play/Pause key instead of the Numlock, this avoids unpleasant surprises.
-
-![Compact](Pictures/4_Compact.png)
-
-If it's 75%, the numbers have to be done with shift, or even reverse up and down if you're not a programmer and you use them really often.
-
-Apart from that, that's all, no difference.
-
-![75](Pictures/4_75.png)
+![Compact](Pictures/4_75.png)
 
 Alternatively you can consider doing the accents differently, ignoring the acute and grave; by placing it differently, or putting others, more useful, in your language; and place the acute and grave symbols to the left of the yellow key.
 
