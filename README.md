@@ -270,7 +270,7 @@ And I complete each with all the letters, otherwise for example for CTRL-SHIFT-^
 
 ## 8. And technically, how do I do?
 
-Ok, I take a practical case
+Ok, I take a practical case.
 
 In my example,
 - I swap [{ ]} to -_ =+
