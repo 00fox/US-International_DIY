@@ -218,7 +218,7 @@ Or use dead keys.
 
 A good way to do this is not to use the key itself, like the traditional US international does, because there's a lot of co-binding when your regular key acts as a dead key.
 - For example, if you want to do all acute with ´ don't use SHIFT-', use CTRL-SHIFT-' instead
-- For base codes utilise for example numbers, because it's not allowed to use a base charcater after non breakable space.
+- For base codes use for example numbers, because it's not allowed to use a base charcater after non breakable space.
 - Place the others on revelant keys.
 
 So:
@@ -363,7 +363,7 @@ Tricks:
 - Simple WIN do nothing, long WIN activate WIN, double WIN show win menu
 - Simple DEL do nothing, except if it's already activated by Double DEL, but for a short time
 
-![All_Features](Templates/10_AllFeatures.png)
+![All_Features](Pictures/10_AllFeatures.png)
 <br><br>
 
 ## 11. Tests
