@@ -399,6 +399,10 @@ Then,
 - I program
 - I do layout
 - I write Autohotkey script
+
+![Mid-size](Pictures/US-International_DIY_Redragon1.jpg)
+
+![Mid-size](Pictures/US-International_DIY_Redragon2.jpg)
 <br><br>
 
 ## 12. After tests
