@@ -406,7 +406,7 @@ Then,
 ![Mid-size](Pictures/US-International_DIY_Redragon2.jpg)
 <br><br>
 
-## 12. Redragon and nuphy
+## 12. Redragon and Nuphy
 
 You can manually edit the Cfg.ini of the respective directories from C:\Program Files (x86)
 
@@ -418,6 +418,8 @@ Then codes:
 see Redragon-Nuphy codes.txt
 
 Backup your original file before
+
+Modify, launch program and do restore
 
 For Nuphy you can try this:
 https://github.com/donn/nudelta
