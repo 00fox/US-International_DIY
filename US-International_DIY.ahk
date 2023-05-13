@@ -2,51 +2,51 @@
 
 ;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒AHKconfig▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
-#SingleInstance force							;ForceIgnorePromptOff
+#SingleInstance force								;ForceIgnorePromptOff
 #Persistent
 #NoEnv
-#UseHook On									;OnOff
+#UseHook On											;OnOff
 SetWorkingDir %A_ScriptDir%
 
 ;#InstallKeybdHook
 ;#InstallMouseHook
 ;#NoTrayIcon
 
-#MaxThreads 100								;1-10-255
-#MaxMem	1									;1-64-4095 Megabytes
-#MaxThreadsBuffer Off							;OnOff
-#MaxThreadsPerHotkey 2							;1-1-255
+#MaxThreads 100										;1-10-255
+#MaxMem	1											;1-64-4095 Megabytes
+#MaxThreadsBuffer Off								;OnOff
+#MaxThreadsPerHotkey 2								;1-1-255
 
-#MaxHotkeysPerInterval 1000						;70
-#HotkeyInterval	10							;2000 Milliseconds
+#MaxHotkeysPerInterval 1000							;70
+#HotkeyInterval	10									;2000 Milliseconds
 
-#HotkeyModifierTimeout -1						;-1 0 x Milliseconds
-#IfTimeout 2000								;1000 Milliseconds
-#ClipboardTimeout 200							;1000 Milliseconds
+#HotkeyModifierTimeout -1							;-1 0 x Milliseconds
+#IfTimeout 2000										;1000 Milliseconds
+#ClipboardTimeout 200								;1000 Milliseconds
 
-#MenuMaskKey vkFF								;Ctrl
-#KeyHistory 0									;0-40-500
-AutoTrim, On									;OnOff
+#MenuMaskKey vkFF									;Ctrl
+#KeyHistory 0										;0-40-500
+AutoTrim, On										;OnOff
 SendMode Input
 
-SetMouseDelay, -1								;10 Milliseconds
+SetMouseDelay, -1									;10 Milliseconds
 SetKeyDelay, 100, -1, -1
 SetDefaultMouseSpeed, 33							;0-100
 SetBatchLines, -1
 
-SetCapsLockState, Off							;On Off AlwaysOn AlwaysOff
+SetCapsLockState, Off								;On Off AlwaysOn AlwaysOff
 SetCapsLockState, AlwaysOff
-SetNumLockState, On								;On Off AlwaysOn AlwaysOff
+SetNumLockState, On									;On Off AlwaysOn AlwaysOff
 SetNumLockState, AlwaysOn
-SetScrollLockState, Off							;On Off AlwaysOn AlwaysOff
+SetScrollLockState, Off								;On Off AlwaysOn AlwaysOff
 SetScrollLockState, AlwaysOff
-SetStoreCapsLockMode, Off						;OnOff
+SetStoreCapsLockMode, Off							;OnOff
 
 SetFormat, float, 0.6
 
-StringCaseSense, Off							;OnOffLocale
+StringCaseSense, Off								;OnOffLocale
 CoordMode Mouse, Screen
-Process Priority,,R								;L,B,N,A,H,R
+Process Priority,,R									;L,B,N,A,H,R
 
 DetectHiddenText, On
 DetectHiddenWindows, On
@@ -66,13 +66,13 @@ Send {RShift Up}
 
 ;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Variables▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
-Unicodemode :=1								; Mode: Character/Unicode/Ascii/Html name/Html number
-UnicodePage :=1								; Page: Usual/Maths/Arrows/Drawing/Symbols or whatever you want
-Lock :=0										; Lock the key in case of autorepeat, removed on release
-DoubleAble :=0									; If short press has been done, before timeout, and double possible if quickly press again
-DelAble :=0									; If del is available for a period of time, reinitialized evry press while active
+Unicodemode :=1										; Mode: Character/Unicode/Ascii/Html name/Html number
+UnicodePage :=1										; Page: Usual/Maths/Arrows/Drawing/Symbols or whatever you want
+Lock :=0											; Lock the key in case of autorepeat, removed on release
+DoubleAble :=0										; If short press has been done, before timeout, and double possible if quickly press again
+DelAble :=0											; If del is available for a period of time, reinitialized evry press while active
 
-Start :=A_TickCount								; Start time of key press
+Start :=A_TickCount									; Start time of key press
 StartMedia :=A_TickCount
 StartDel :=A_TickCount
 StartMenu :=A_TickCount
@@ -223,7 +223,7 @@ Gui Unicode:+LastFound +Caption +AlwaysOnTop +ToolWindow +Border +E0x20 +E0x0800
 Gui Unicode:Show, w428 h478 center,RALTUnicode
 SplashTextOff
 Gui Unicode:Hide
-return										;░░░░░░░░End of excecution░░░░░░░
+return												;░░░░░░░░End of excecution░░░░░░░
 
 ;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Program▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
@@ -281,57 +281,34 @@ WM_MOUSEMOVE() {
 
 ;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Key▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
-RControl & AppsKey::F12							;░░░░░░░░F12 with RCtrl-AppsKey░░
-
-											;░░░░░░░░Special VK_OEM_102░░░░░░
-*AppsKey::
+LAlt & Space::										;▒▒▒▒▒▒▒▒Your own key there▒▒▒▒▒▒
 	if (Lock) {
 		return
 	}
 	Lock :=1
 	Start :=A_TickCount
-	SetTimer, Long, -400						;░░░░░░░░Long press time there░░░
+	SetTimer, Long, -400							;▒▒▒▒▒▒▒▒Long press time there▒▒▒
 return
 
-AppsKey up::
+LAlt & Space up::									;▒▒▒▒▒▒▒▒Your own key there▒▒▒▒▒▒
 	SetTimer, Long, Off
-	if (A_TickCount - Start < 210) {
+	if (A_TickCount - Start < 220) {
 		UnicodeActive := WinActive("RALTUnicode") ? 1 : 0
-		if (DoubleAble) {
-			DoubleAble :=0
-			SetTimer, Simple, Off
-			if (UnicodeActive) {
-				UnicodePage := 1
-				GuiControl Unicode:Choose, UnicodeMenu, |1
-				Gui Unicode:Show
-			} else {
-				Send {AppsKey}
-			}
-		} else {
-			DoubleAble :=1
-			SetTimer, Simple, 210
+		if (UnicodeActive) {
+			SetTimer, Simple, 220
 		}
-	} else {
-		DoubleAble :=0
 	}
 	Lock :=0
 Return
 
 Simple:
-	DoubleAble :=0
 	SetTimer, Long, Off
 	SetTimer, Simple, Off
-	UnicodeActive := WinActive("RALTUnicode") ? 1 : 0
-	if (UnicodeActive) {
-		UnicodePage := (UnicodePage=5)? 1 : UnicodePage+1
-		GuiControl Unicode:Choose, UnicodeMenu, |%UnicodePage%
-	} else {
-		Send {AppsKey}
-	}
+	UnicodePage := (UnicodePage=5)? 1 : UnicodePage+1
+	GuiControl Unicode:Choose, UnicodeMenu, |%UnicodePage%
 return
 
 Long:
-	DoubleAble :=0
 	SetTimer, Simple, Off
 	SetTimer, Long, Off
 	UnicodeActive := WinActive("RALTUnicode") ? 1 : 0
@@ -343,7 +320,7 @@ Long:
 return
 
 ;░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░No NumLock░░░░░░░░░░░░░░
-
+/*
 NumLock::return
 
 $NumpadHome::Send {7}
@@ -375,58 +352,41 @@ $!NumpadPgDn::Send {3}
 
 $!NumpadIns::Send {0}
 $!NumpadDel::Send {.}
-
+*/
 ;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Miscellaneous▒▒▒▒▒▒▒▒▒▒▒
 
-;*SC12E::return								;Volume_Down
-;*SC130::return								;Volume_Up
-;*SC120::return								;Volume_Mute
-;*SC124::return								;Media_Stop
-;*SC110::return								;Media_Prev
-;*SC119::return								;Media_Next
-;*SC122::return								;Media_Play_Pause
-;*SC147::return								;Home
-;*SC14F::return								;End
-;*SC153::return								;Delete
-;*SC149::return								;PgUp
-;*SC151::return								;PgDn
-;*SC137::return								;PrintScreen
+;*SC12E::return										;Volume_Down
+;*SC130::return										;Volume_Up
+;*SC120::return										;Volume_Mute
+;*SC124::return										;Media_Stop
+;*SC110::return										;Media_Prev
+;*SC119::return										;Media_Next
+;*SC122::return										;Media_Play_Pause
+;*SC147::return										;Home
+;*SC14F::return										;End
+;*SC153::return										;Delete
+;*SC149::return										;PgUp
+;*SC151::return										;PgDn
+;*SC137::return										;PrintScreen
 
-$CapsLock::return								;░░░░░░░░No CapsLock░░░░░░░░░░░░░
-*SC046::return									;░░░░░░░░No ScrollLock░░░░░░░░░░░
-*SC045::return									;░░░░░░░░No Pause░░░░░░░░░░░░░░░░
-*SC152::return									;░░░░░░░░No Insert░░░░░░░░░░░░░░░
+;$CapsLock::return									;░░░░░░░░No CapsLock░░░░░░░░░░░░░
+;*SC046::return										;░░░░░░░░No ScrollLock░░░░░░░░░░░
+;*SC045::return										;░░░░░░░░No Pause░░░░░░░░░░░░░░░░
+;*SC152::return										;░░░░░░░░No Insert░░░░░░░░░░░░░░░
 
-^SC010::Send ^z								;░░░░░░░░Undo with Ctrl-Q░░░░░░░░
-^SC01F::Send ^y								;░░░░░░░░Redo with Ctrl-S░░░░░░░░
+;^SC010::Send ^z									;░░░░░░░░Undo with Ctrl-Q░░░░░░░░
+;^SC01F::Send ^y									;░░░░░░░░Redo with Ctrl-S░░░░░░░░
 
-RControl & SC001::!F4							;░░░░░░░░Alt-F4 with RCtrl-Esc░░░
-RControl & SPACE::Winset, AlwaysOnTop, , A			;░░░░░░░░AOT with RCtrl-SPACE░░░░
+;RControl & SC001::!F4								;░░░░░░░░Alt-F4 with RCtrl-Esc░░░
+;RControl & SPACE::Winset, AlwaysOnTop, , A			;░░░░░░░░AOT with RCtrl-SPACE░░░░
 
-RControl & SC122::Volume_Up						;░░░░░░░░Vol+ with RCtrl-Play░░░░
-RControl & SC120::Volume_Down						;░░░░░░░░Vol- with RCtrl-Mute░░░░
-RControl & Media_Stop::Media_Stop					;░░░░░░░░Stop with RCtrl-Stop░░░░
-Media_Stop::PrintScreen							;░░░░░░░░PrintScreen with Stop░░░
-
-RControl & Numpad1::F1							;░░░░░░░░F1-11 with RCtrl-Numpad░
-RControl & Numpad2::F2
-RControl & Numpad3::F3
-RControl & Numpad4::F4
-RControl & Numpad5::F5
-RControl & Numpad6::F6
-RControl & Numpad7::F7
-RControl & Numpad8::F8
-RControl & Numpad9::F9
-RControl & Numpad0::F10
-RControl & NumpadDot::AppsKey
-
-RControl & SC14B::Home							;░░░░░░░░Home with RCtrl-Left░░░░
-RControl & SC14D::End							;░░░░░░░░End with RCtrl-Right░░░░
-RControl & SC148::PgUp							;░░░░░░░░PgUp with RCtrl-Up░░░░░░
-RControl & SC150::PgDn							;░░░░░░░░PgDn with RCtrl-Down░░░░
+;RControl & SC14B::Home								;░░░░░░░░Home with RCtrl-Left░░░░
+;RControl & SC14D::End								;░░░░░░░░End with RCtrl-Right░░░░
+;RControl & SC148::PgUp								;░░░░░░░░PgUp with RCtrl-Up░░░░░░
+;RControl & SC150::PgDn								;░░░░░░░░PgDn with RCtrl-Down░░░░
 
 ;░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░Media double░░░░░░░░░░░░
-
+/*
 *$SC122::
 	if (LockMedia1) {
 		return
@@ -434,8 +394,8 @@ RControl & SC150::PgDn							;░░░░░░░░PgDn with RCtrl-Down░░
 	LockMedia1 :=1
 	if (A_TickCount - StartMedia < 210) {			;░░░░░░░░Double press time░░░░░░░
 		StartMedia :=A_TickCount - 210
-		Send {Media_Play_Pause}					;░░░░░░░░Send again░░░░░░░░░░░░░░
-		Send {Media_Next}						;░░░░░░░░and Media_Next░░░░░░░░░░
+		Send {Media_Play_Pause}						;░░░░░░░░Send again░░░░░░░░░░░░░░
+		Send {Media_Next}							;░░░░░░░░and Media_Next░░░░░░░░░░
 	} else {
 		StartMedia :=A_TickCount
 		Send {Media_Play_Pause}
@@ -452,8 +412,8 @@ Return
 	LockMedia2 :=1
 	if (A_TickCount - StartMedia < 210) {			;░░░░░░░░Double press time░░░░░░░
 		StartMedia :=A_TickCount - 210
-		Send {Volume_Mute}						;░░░░░░░░Send again░░░░░░░░░░░░░░
-		Send {Media_Prev}						;░░░░░░░░and Media_Prev░░░░░░░░░░
+		Send {Volume_Mute}							;░░░░░░░░Send again░░░░░░░░░░░░░░
+		Send {Media_Prev}							;░░░░░░░░and Media_Prev░░░░░░░░░░
 	} else {
 		StartMedia :=A_TickCount
 		Send {Volume_Mute}
@@ -462,9 +422,9 @@ return
 SC120 up::
 	LockMedia2 :=0
 Return
-
+*/
 ;░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░Del double░░░░░░░░░░░░░░
-
+/*
 $Delete::
 	if (LockDel) {
 		return
@@ -480,7 +440,7 @@ $Delete::
 	} else {
 		StartDel :=A_TickCount
 	}
-	SetTimer, LongDel, -600						;░░░░░░░░Active time there░░░░░░░
+	SetTimer, LongDel, -600							;░░░░░░░░Active time there░░░░░░░
 return
 Delete up::
 	LockDel :=0
@@ -490,9 +450,9 @@ LongDel:
 	SetTimer, LongDel, Off
 	DelAble :=0
 return
-
+*/
 ;░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░LWin double & long░░░░░░
-
+/*
 $LWin::
 	if (LockLWin) {
 		return
@@ -521,20 +481,20 @@ LongLWin:
 	LongLWinOn :=1
 	Send {LWin Down}
 return
-
+*/
 ;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Long Press Accent ex.▒▒▒
 /*
-*y::										; This is an example for the key Y
+*y::												; This is an example for the key Y
 	if (SpecialActive) {
-		Send {¥}							; If Special hotkey was pressed less than two seconds ago, Send ¥
-		SpecialActive :=0					; And deactivated again for next key, unless you press it again
+		Send {¥}									; If Special hotkey was pressed less than two seconds ago, Send ¥
+		SpecialActive :=0							; And deactivated again for next key, unless you press it again
 		return
-	}									; Else...
-	if yLock {							; (yLock: change the name each new key)
+	}												; Else...
+	if yLock {										; (yLock: change the name each new key)
 		return
 	}
 	yLock :=1
-	yTimes :=0							; (yTimes: change the name each new key)
+	yTimes :=0										; (yTimes: change the name each new key)
 	Loop {
 		KeyWait y, T0.012
 		if !(ErrorLevel) {
@@ -545,14 +505,14 @@ return
 			break
 		}
 	}
-	if (yTimes) {							; If long press
-		if GetKeyState("Shift") {				; If Shift, send Ÿ
+	if (yTimes) {									; If long press
+		if GetKeyState("Shift") {					; If Shift, send Ÿ
 			Send {Ÿ}
 		} else {									; Else, send ÿ
 			Send {ÿ}
 		}
-	} else {								; Else
-		if GetKeyState("Shift") {				; If Shift, send Y
+	} else {										; Else
+		if GetKeyState("Shift") {					; If Shift, send Y
 			Send {Y}
 		} else {									; Else, send y
 			Send {y}

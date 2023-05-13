@@ -132,9 +132,7 @@ Ok, since template is broken, I'll start with AZERTY layout, for those personnal
 
 ## 2. Why the idea of ISO or MIX, and VK_OEM_5 same size as TAB?
 
-- I want to avoid the use of the ALTGR key and keep the RALT key
 - I don't want the current international US layout, because it makes it difficult to use some very useful keys
-- I don't want solutions where the accents are made from other keys drawn with ALTGR (I may still want to keep; for example if I specifically use one language and want to keep access to other, I will talk about it later)
 
 So I decided to use a specific accent key to enter accents for the language(s) that suits me, and everyone can make their own layout, with a simple, common template.
 - Or I want both hands and use symetrical TAB and OEM_5 from ISO, and put TAB over CAPSLOCK.
@@ -202,7 +200,7 @@ And 'Menu' will be used to launch this Unicode manager.
 
 Although I'm using RALTUnicode, what about using the 'Accents' key for a second function
 
-So I chose to use it as a way to write the most common characters; by pressing the SHIFT-YELLOW key (CAPSLOCK or TAB + VK_OEM_5 depending on what you have chosen)
+So I chose to use it as a way to write the most common characters; by Fn+YELLOW, this activate a dead key in my layout.
 
 My choice:
 
@@ -230,7 +228,7 @@ Here is a table of all common acctents and how associate them:
 
 | CTRL+SHIFT+Key | Name         | Second key                | Gives :                   | Accent    | Ligature |
 |:--------------:|:------------:|:-------------------------:|:-------------------------:|:---------:|:--------:|
-|   1  ( \|‖  )   | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ               |     ¯     |  U+0304  |
+|   1  ( \|‖  )  | macron       | aeiou AEIOU               | āēīōū ĀĒĪŌŪ               |     ¯     |  U+0304  |
 |   2  ( &~  )   | tilde        | aionu AIONU               | ãĩõñũ ÃĨÕÑŨ   	        |     ~     |  U+0303  |
 |   3  ( '´  )   | acute        | aceilnorsuyz ACEILNORSUYZ | áćéíĺńóŕśúýź ÁĆÉÍĹŃÓŔŚÚÝŹ |     ´     |  U+0301  |
 |   4  ( "`  )   | grave        | aeiou AEIOU               | àèìòù ÀÈÌÒÙ               |     `     |  U+0300  |
@@ -254,16 +252,16 @@ This gives an array that I place on the keys |&'"#^%@(), putting the numbers 123
 
 | CTRL+SHIFT+Key | Name            | Second key                    | Gives :                       | Base |
 |:--------------:|:---------------:|:-----------------------------:|:-----------------------------:|:----:|
-|      \|‖        | macron          | aeiou AEIOU                   | āēīōū ĀĒĪŌŪ                   |  1   |
-|      &~        | tilde           | aionu AIONU                   | ãĩõñũ ÃĨÕÑŨ   	              |  2   |
+|      \|‖       | macron          | aeiou AEIOU                   | āēīōū ĀĒĪŌŪ                   |  1   |
+|      &~        | tilde           | aionu AIONU                   | ãĩõñũ ÃĨÕÑŨ   	               |  2   |
 |      '´        | double, acute   | acdeilnorstuyz ACDEILNORSTUYZ | áćðéíĺńőŕśþűýź ÁĆÐÉÍĹŃŐŔŚÞŰÝŹ |  3   |
-|      "`        | double grave    | aeioru AEIORU                 | ȁȅȉȍȑȕ̏ ȀȄȈȌȐȔ                 |  4   |
+|      "`        | grave           | aeiou AEIOU                   | àèìòù ÀÈÌÒÙ                   |  4   |
 |      #¨        | ogonek, cedilla | aegiklnrstu AEGIKLNRSTU       | ąęģįķļņŗşţų ĄĘĢĮĶĻŅŖŞŢŲ       |  5   |
 |      ^′        | circumflex      | aceghijosu ACEGHIJOSU         | âĉêĝĥîĵôŝû ÂĈÊĜĤÎĴÔŜÛ         |  6   |
-|      %″        | stroke          | abcdefhiloty ABCDEFHILOTY     | ȺßȼđɇŧħĳłøȾɏ ȺẞȻĐɆŦĦĲŁØȾɎ     |  7   |
+|      %″        | double grave    | aeioru AEIORU                 | ȁȅȉȍȑȕ̏ ȀȄȈȌȐȔ                 |  7   |
 |      @‴        | dot, ring       | acegiluz ACEGILUZ             | åċėġıŀůż ÅĊĖĠİĿŮŻ             |  8   |
 |      (‘<       | breve, caron    | acdegilnrstuz ACDEGILNRSTUZ   | ăčďěğǐľňřšťŭž ĂČĎĚĞǏĽŇŘŠŤŬŽ   |  9   |
-|      )’>       |                 |                               |                               |  0   |
+|      )’>       | stroke          | abcdefhiloty ABCDEFHILOTY     | ȺßȼđɇŧħĳłøȾɏ ȺẞȻĐɆŦĦĲŁØȾɎ     |  0   |
 
 And I complete each with all the letters, otherwise for example for CTRL-SHIFT-^-c we have ĉ but for CTRL-SHIFT-^v we get 6v.
 <br><br>
@@ -312,8 +310,6 @@ First if you use a layout, take the same base as your Keyboard, US QWERTY layout
 
 ![LayoutAccents](Pictures/8_USINTDIYShftCtrl.jpg)
 
-Nothing under Control and AltGr
-
 If you prefer to use Autohotkey rather than a layout, I suggest you use F13-F24 for example for your special keys, it's easier to make combinations.
 - If you wanty two yellows then use two differents keys, and therefore equal in accents, but different in what they do with a character key or a double tap.
 - Or simply ignore yellow keys and directly long press for accents. And do something else with those keys, or leave them as they are.
@@ -323,21 +319,22 @@ The advantage of Autohoykey is to not depend of any dead key, so no suprise.
 - You can run a timer for sepcial keys, so it has the adventage of dead keys, (not have to stay pushed for a combo) but not the inconvenient to have to do a false character if you type on it by mistake.
 <br><br>
 
-## 9. And if I want to use characters on ALTGR for the layout?
+## 9. How I use characters on ALTGR for the layout?
 
-If you absolutely want to use characters on ALTGR, without having to sacrifice RALT for ALTGR and manually type LEFT CONTROL + RIGHT ALT (Which is a good way to keep keys safe since the combination is hard to make by chance), it is normally impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT, and it is not possible to unlock it manually.
+If you want to use characters on ALTGR, without having to sacrifice RALT for ALTGR
+- Or you place RAlt on Capslock, and another LAlt on RAlt,
+- Or manually type LEFT CONTROL + RIGHT ALT (Which is normally impossible because as soon as placed, a character on the altgr layout, it locks the template to replace RALT), But there is a trick:
 
 ![ALTGR](Pictures/9_ALTGR.png)
-
-But there is a trick.
 - Continue until the end, save your template regularly, then compile it as is.
-- Once done, in the installation directory go to the directory that corresponds to your machine, or else, do it for all.
+- Once done, in the installation directory go to the directory that corresponds to your machine.
 - Open the dll you find there with a hex editor.
-- Look for 01 as in the image below (the group that contains it, which can be seen in the image, is easily identifiable; even if the whole file may be different)
+- Look for 01 as in the image below (the group that contains it, which can be seen in the image, is easily identifiable)
 - Change it to 00 then save.
 - And only now proceed with the installation using the setup.exe from the root directory.
 
-![Hex](Pictures/9_Hex.png)
+![Hex](Pictures/9_Hex-wow.png)
+![Hex](Pictures/9_Hex-amd.png)
 
 Normally if everything went well, the RALT key is not modified, but you can use LCTRL + RALT to enter the characters corresponding to this layout.
 <br><br>
@@ -428,11 +425,14 @@ https://github.com/donn/nudelta
 
 It works as expected, it's simple and fun.
 
-I prefer to use the long press Autohotkey method, but it has latency that reverses the letters if you type too quickly, so I use CAPSLOCK as a dead key.
+I prefer to use the long press Autohotkey method, but it has latency that reverses the letters if you type too quickly, so I use CAPSLOCK as AltGr and LAlt over RAlt.
 
-Combining programmable + layout for dead keys and permutations + Autohotkeys fo scripting is the best.
+Combining programmable + layout for AltGr accents and a dead key for special characters + Autohotkeys for RAltUnicode and scripting is the best.
 - Except with QMK VIA but find a hardware with a firmware like ZMK that supports 2.4G instead of bluetooth is extremely rare.
 - Then you can use Mod-Tap Tap Dance etc. functions of QMK, VIA etc. to replace Autohotkey to send unicode.
+
+Final Layout:
+![Final](US-International_DIY.png)
 
 ## 14. Show case
 
