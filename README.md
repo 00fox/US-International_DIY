@@ -48,7 +48,7 @@ Or balance of the weight
 Now all that remained was to make a weight balance and lighten the sentences, because there, it gave the impression that each letter had a break before the next.
 
 But this research is dead, why? Let's crack the polemic, explain its impacts, then move on:
-Some consciences; rather than making a comic of it, and leaving the fights to simple confrontations, which after all surviving was only a game which should have stopped depending on the consequences; invent wars, for the entities, as serious vs humor, laugh about something vs about someone etc., rather than a war in a comic. It's interesting, we don't have fun with, we overplay it, while they are simple contradictions for the humans. And we find ourselves almost forced to accept that they exist, and with, peace.
+Some consciences; rather than making a comic of it, and leaving the fights to simple confrontations, which after all surviving, fears and the will to try everything, should have stopped depending on the consequences; invent wars, for the entities, as serious vs humor, laugh about something vs about someone etc., rather than a war in a comic or game. It's interesting, we don't have fun with, we overplay it, while they are simple contradictions for the humans. And we find ourselves almost forced to accept that they exist, and with, peace.
 Not being here for this controversy, it is not mine and does not belong to me, moreover, to whom in fact?
 
 But, and so,
